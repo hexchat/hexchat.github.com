@@ -1,0 +1,1 @@
+Sitemap: http://hexchat.github.com/sitemap.xml
