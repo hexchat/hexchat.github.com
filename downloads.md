@@ -16,10 +16,11 @@ Perl 5.16.2 for perl scripts ( [64bit](https://github.com/downloads/hexchat/hexc
 
 ## Linux
 List of some (not all) Linux distros that have HexChat packaged. Some are official others are not.
-- [Ubuntu PPA](https://launchpad.net/~gwendal-lebihan-dev/+archive/hexchat-stable)
+- [Ubuntu(Mint) PPA](https://launchpad.net/~gwendal-lebihan-dev/+archive/hexchat-stable)
 - [Fedora Repos](https://apps.fedoraproject.org/packages/hexchat)
 - [Arch User Repository](https://aur.archlinux.org/packages.php?K=hexchat)
 - [openSUSE build service](http://software.opensuse.org/package/hexchat)
+- [EPEL Repos for CentOS/Red Hat](https://apps.fedoraproject.org/packages/hexchat)
 - Mageia 3 Repos
 - Fuduntu Repos
 
