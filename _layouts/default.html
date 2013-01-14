@@ -28,24 +28,29 @@
   <body>
     <div class="wrapper">
 	    <header>
-        <h1 class="header">HexChat</h1>
+        <h1 class="header"><a href="/index.html">HexChat</a></h1>
         <p class="header">IRC client</p>
 
+        <!--Mobile friendly links-->
+        <p class="view"><a href="https://hexchat.readthedocs.org">Read The Docs</a></p>
+        <p class="view"><a href="/news.html">Read The News</a></p>
+
+        <!--Desktop friendly links-->
         <ul>
-          <li><a class="buttons" href="/downloads.html">Downloads</a></li>
-          <li><a class="buttons" href="https://github.com/HexChat/hexchat">Github</a></li>
-          <li><a class="buttons" href="/news.html">News</a></li>
-          <li><a class="buttons" href="https://hexchat.readthedocs.org">Documentation</a></li>
+          <li><a href="/downloads.html">GetThe <strong>Downloads</strong></a></li>
+          <li><a href="/screenshots.html">ViewThe <strong>Screenshots</strong></a></li>
+          <li><a href="/news.html">ReadThe <strong>News</strong></a></li>
+          <li><a href="https://github.com/HexChat/hexchat">SeeOn <strong>Github</strong></a></li>
+          <li><a href="https://hexchat.readthedocs.org">ReadThe <strong>Docs</strong></a></li>
         </ul>
       </header>
       <section>
 		    {{ content }}
       </section>
-      <footer>
-        <p><small>Hosted on <a href="https://pages.github.com">GitHub Pages</a> using the Dinky theme</small></p>
-      </footer>
     </div>
+    <footer>
+      <p><small>Hosted on <a href="https://pages.github.com">GitHub Pages</a> using the Modernist theme by <a href="https://github.com/orderedlist">orderedlist</small></p>
+    </footer>
     <!--[if !IE]><script>fixScale(document);</script><![endif]-->
-		
   </body>
 </html>
