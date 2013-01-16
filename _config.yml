@@ -1,3 +1,5 @@
 title: HexChat
 current_version: 2.9.4
 domain: hexchat.github.com
+
+permalink: /news/:title.html
