@@ -21,6 +21,7 @@ List of some (not all) Linux distros that have HexChat packaged. Some are offici
 - [Arch User Repository](https://aur.archlinux.org/packages.php?K=hexchat)
 - [openSUSE build service](http://software.opensuse.org/package/hexchat)
 - [EPEL Repos for CentOS/Red Hat](https://apps.fedoraproject.org/packages/hexchat)
+- [Bodhi Linux Appcenter](http://appcenter.bodhilinux.com/software/showDesc/HexChat%20-%20IRC)
 - Mageia 3 Repos
 - Fuduntu Repos
 
