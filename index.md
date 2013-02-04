@@ -12,7 +12,7 @@ HexChat was originally called XChat-WDK which in turn was a successor of freaksc
 ####Features
 
 - Easy to use and customizable interface
-- Cross-platform on Windows and Unix-like
+- Cross-platform on Windows and Unix-like OSes
 - Highly scriptable with Python and Perl
 - Translated in multiple languages
 - Fully open source and actively developed
