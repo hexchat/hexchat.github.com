@@ -58,19 +58,20 @@ header {
   background: -ms-linear-gradient(top, #e8e8e8 0%,#b2b2b2 100%); /* IE10+ */
   background: linear-gradient(to bottom, #e8e8e8 0%,#b2b2b2 100%); /* W3C */
   position: relative;
-  padding: 15px 20px;
+  padding: 15px 20px 15px 15px;
   border-bottom: 1px solid #FF9933;
 }
 header h1 {
-  margin: 0;
-  padding: 0;
+  height: 48px;
+  margin: 0 0 -20px;
+  padding: 0 0 0 56px;
   font-size: 24px;
   line-height: 1.2;
   color: #686868;
   text-shadow: rgba(255, 255, 255, 0.9) 0 1px 0;
 }
 header p {
-  margin: 0;
+  margin: 0 0 0 56px;
   color: #686868;
   width: 300px;
   font-size: 13px;
