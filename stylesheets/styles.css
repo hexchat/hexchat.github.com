@@ -64,7 +64,7 @@ header {
 header h1 {
   height: 48px;
   margin: 0 0 -20px;
-  padding: 0 0 0 56px;
+  padding: 0 0 0 60px;
   font-size: 24px;
   line-height: 1.2;
   color: #686868;
@@ -72,7 +72,7 @@ header h1 {
   background: url("/images/hexchat.png") no-repeat transparent;
 }
 header p {
-  margin: 0 0 0 56px;
+  margin: 0 0 0 60px;
   color: #686868;
   width: 300px;
   font-size: 13px;
