@@ -1,171 +1,180 @@
+$viewport-large: 800px;
+$viewport-small: 580px;
+
 @import url(https://fonts.googleapis.com/css?family=Lato:400italic,700italic,400,700);
 html {
-  background: #434b55 url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAeCAYAAABNChwpAAAABHNCSVQICAgIfAhkiAAAAAlwSFlzAAALEgAACxIB0t1+/AAAABx0RVh0U29mdHdhcmUAQWRvYmUgRmlyZXdvcmtzIENTNXG14zYAAAAUdEVYdENyZWF0aW9uIFRpbWUAMy82LzEygrTcTAAAAFRJREFUSIljfPDggZRf5RIGGNjUHsNATz6jXmSL1Kb2GLiAX+USBnrymRgGGDCORgFmoNAXjEbBaBSMRsFoFIxGwWgUjEbBaBSMRsFoFIxGwWgUAABYNujumib3wAAAAABJRU5ErkJggg==') fixed;
+	background: #434b55 url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAeCAYAAABNChwpAAAABHNCSVQICAgIfAhkiAAAAAlwSFlzAAALEgAACxIB0t1+/AAAABx0RVh0U29mdHdhcmUAQWRvYmUgRmlyZXdvcmtzIENTNXG14zYAAAAUdEVYdENyZWF0aW9uIFRpbWUAMy82LzEygrTcTAAAAFRJREFUSIljfPDggZRf5RIGGNjUHsNATz6jXmSL1Kb2GLiAX+USBnrymRgGGDCORgFmoNAXjEbBaBSMRsFoFIxGwWgUjEbBaBSMRsFoFIxGwWgUAABYNujumib3wAAAAABJRU5ErkJggg==') fixed;
 }
 
 body {
-  padding: 50px 0;
-  margin: 0;
-  font: 14px/1.5 Lato, Helvetica, Arial, sans-serif;
-  color: #555;
-  font-weight: 400;
+	padding: 50px 0;
+	margin: 0;
+	font: 14px/1.5 Lato, Helvetica, Arial, sans-serif;
+	color: #555;
+	font-weight: 400;
 }
 
 .wrapper {
-  width: 800px;
-  margin: 0 auto;
-  background: #DEDEDE;
-  -webkit-border-radius: 8px;
-  -moz-border-radius: 8px;
-  -ms-border-radius: 8px;
-  -o-border-radius: 8px;
-  border-radius: 8px;
-  -webkit-box-shadow: rgba(0, 0, 0, 0.2) 0 0 0 1px, rgba(0, 0, 0, 0.45) 0 3px 10px;
-  -moz-box-shadow: rgba(0, 0, 0, 0.2) 0 0 0 1px, rgba(0, 0, 0, 0.45) 0 3px 10px;
-  box-shadow: rgba(0, 0, 0, 0.2) 0 0 0 1px, rgba(0, 0, 0, 0.45) 0 3px 10px;
+	width: 800px;
+	margin: 0 auto;
+	background: #DEDEDE;
+	-webkit-border-radius: 8px;
+	-moz-border-radius: 8px;
+	-ms-border-radius: 8px;
+	-o-border-radius: 8px;
+	border-radius: 8px;
+	-webkit-box-shadow: rgba(0, 0, 0, 0.2) 0 0 0 1px, rgba(0, 0, 0, 0.45) 0 3px 10px;
+	-moz-box-shadow: rgba(0, 0, 0, 0.2) 0 0 0 1px, rgba(0, 0, 0, 0.45) 0 3px 10px;
+	box-shadow: rgba(0, 0, 0, 0.2) 0 0 0 1px, rgba(0, 0, 0, 0.45) 0 3px 10px;
 }
 
 header, section, footer {
-  display: block;
+	display: block;
 }
 
 a {
-  color: #ff4d00;
-  text-decoration: none;
+	color: #ff4d00;
+	text-decoration: none;
 }
 
 p {
-  margin: 0 0 20px;
-  padding: 0;
+	margin: 0 0 20px;
+	padding: 0;
 }
 
 strong {
-  color: #222;
-  font-weight: 700;
+	color: #222;
+	font-weight: 700;
 }
 
 header {
-  -webkit-border-radius: 8px 8px 0 0;
-  -moz-border-radius: 8px 8px 0 0;
-  -ms-border-radius: 8px 8px 0 0;
-  -o-border-radius: 8px 8px 0 0;
-  border-radius: 8px 8px 0 0;
-  background: #e8e8e8; /* Old browsers */
-  background: -moz-linear-gradient(top, #e8e8e8 0%, #b2b2b2 100%); /* FF3.6+ */
-  background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#e8e8e8), color-stop(100%,#b2b2b2)); /* Chrome,Safari4+ */
-  background: -webkit-linear-gradient(top, #e8e8e8 0%,#b2b2b2 100%); /* Chrome10+,Safari5.1+ */
-  background: -o-linear-gradient(top, #e8e8e8 0%,#b2b2b2 100%); /* Opera 11.10+ */
-  background: -ms-linear-gradient(top, #e8e8e8 0%,#b2b2b2 100%); /* IE10+ */
-  background: linear-gradient(to bottom, #e8e8e8 0%,#b2b2b2 100%); /* W3C */
-  position: relative;
-  padding: 15px 20px 15px 15px;
-  border-bottom: 1px solid #FF9933;
-}
-header h1 {
-  height: 48px;
-  margin: 0 0 -20px;
-  padding: 0 0 0 60px;
-  font-size: 24px;
-  line-height: 1.2;
-  color: #686868;
-  text-shadow: rgba(255, 255, 255, 0.9) 0 1px 0;
-  background: url("/images/hexchat.png") no-repeat transparent;
-}
-header p {
-  margin: 0 0 0 60px;
-  color: #686868;
-  width: 300px;
-  font-size: 13px;
-}
-header p.view {
-  display: none;
-  font-weight: 700;
-  -webkit-font-smoothing: antialiased;
-}
-header p.view a {
-  color: #ff8000;
-}
-header p.view small {
-  font-weight: 400;
-}
-header ul {
-  margin: 0;
-  padding: 0;
-  list-style: none;
-  position: absolute;
-  z-index: 1;
-  right: 20px;
-  top: 20px;
-  height: 38px;
-  padding: 1px 0;
-  background: #ff9100; /* Old browsers */
-  background: -moz-linear-gradient(top, #ff9100 0%, #ff6a00 100%); /* FF3.6+ */
-  background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#ff9100), color-stop(100%,#ff6a00)); /* Chrome,Safari4+ */
-  background: -webkit-linear-gradient(top, #ff9100 0%,#ff6a00 100%); /* Chrome10+,Safari5.1+ */
-  background: -o-linear-gradient(top, #ff9100 0%,#ff6a00 100%); /* Opera 11.10+ */
-  background: -ms-linear-gradient(top, #ff9100 0%,#ff6a00 100%); /* IE10+ */
-  background: linear-gradient(to bottom, #ff9100 0%,#ff6a00 100%); /* W3C */
-  border-radius: 5px;
-  -webkit-box-shadow: inset rgba(255, 255, 255, 0.45) 0 1px 0, inset rgba(0, 0, 0, 0.2) 0 -1px 0;
-  -moz-box-shadow: inset rgba(255, 255, 255, 0.45) 0 1px 0, inset rgba(0, 0, 0, 0.2) 0 -1px 0;
-  box-shadow: inset rgba(255, 255, 255, 0.45) 0 1px 0, inset rgba(0, 0, 0, 0.2) 0 -1px 0;
-  width: auto;
-}
-header ul:before {
-  content: '';
-  position: absolute;
-  z-index: -1;
-  left: -5px;
-  top: -4px;
-  right: -5px;
-  bottom: -6px;
-  background: rgba(0, 0, 0, 0.1);
-  -webkit-border-radius: 8px;
-  -moz-border-radius: 8px;
-  -ms-border-radius: 8px;
-  -o-border-radius: 8px;
-  border-radius: 8px;
-  -webkit-box-shadow: rgba(0, 0, 0, 0.2) 0 -1px 0, inset rgba(255, 255, 255, 0.7) 0 -1px 0;
-  -moz-box-shadow: rgba(0, 0, 0, 0.2) 0 -1px 0, inset rgba(255, 255, 255, 0.7) 0 -1px 0;
-  box-shadow: rgba(0, 0, 0, 0.2) 0 -1px 0, inset rgba(255, 255, 255, 0.7) 0 -1px 0;
-}
-header ul li {
-  width: 90px;
-  float: left;
-  height: 38px;
-}
-header ul li + li {
-  width: 90px;
-  border-left: 1px solid #A9A9A9;
-}
-header ul li + li + li {
-  border-right: none;
-  width: 90px;
-}
-header ul a {
-  line-height: 1;
-  font-size: 11px;
-  color: #fff;
-  color: rgba(255, 255, 255, 0.8);
-  display: block;
-  text-align: center;
-  font-weight: 400;
-  padding-top: 6px;
-  height: 40px;
-  text-shadow: rgba(0, 0, 0, 0.4) 0 -1px 0;
-}
-header ul a strong {
-  font-size: 14px;
-  display: block;
-  color: #fff;
-  -webkit-font-smoothing: antialiased;
+	-webkit-border-radius: 8px 8px 0 0;
+	-moz-border-radius: 8px 8px 0 0;
+	-ms-border-radius: 8px 8px 0 0;
+	-o-border-radius: 8px 8px 0 0;
+	border-radius: 8px 8px 0 0;
+	background: #e8e8e8; /* Old browsers */
+	background: -moz-linear-gradient(top, #e8e8e8 0%, #b2b2b2 100%); /* FF3.6+ */
+	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#e8e8e8), color-stop(100%,#b2b2b2)); /* Chrome,Safari4+ */
+	background: -webkit-linear-gradient(top, #e8e8e8 0%,#b2b2b2 100%); /* Chrome10+,Safari5.1+ */
+	background: -o-linear-gradient(top, #e8e8e8 0%,#b2b2b2 100%); /* Opera 11.10+ */
+	background: -ms-linear-gradient(top, #e8e8e8 0%,#b2b2b2 100%); /* IE10+ */
+	background: linear-gradient(to bottom, #e8e8e8 0%,#b2b2b2 100%); /* W3C */
+	position: relative;
+	padding: 15px 20px 15px 15px;
+	border-bottom: 1px solid #FF9933;
+  
+	p {
+	  margin: 0 0 0 60px;
+	  color: #686868;
+	  width: 300px;
+	  font-size: 13px;
+	}
+	p.view {
+		display: none;
+		font-weight: 700;
+		-webkit-font-smoothing: antialiased;
+		
+		a {
+			color: #ff8000;
+		}
+		small {
+			font-weight: 400;
+		}
+	}
+	h1 {
+		height: 48px;
+		margin: 0 0 -20px;
+		padding: 0 0 0 60px;
+		font-size: 24px;
+		line-height: 1.2;
+		color: #686868;
+		text-shadow: rgba(255, 255, 255, 0.9) 0 1px 0;
+		background: url("/images/hexchat.png") no-repeat transparent;
+	}
+	ul {
+		margin: 0;
+		padding: 0;
+		list-style: none;
+		position: absolute;
+		z-index: 1;
+		right: 20px;
+		top: 20px;
+		height: 38px;
+		padding: 1px 0;
+		background: #ff9100; /* Old browsers */
+		background: -moz-linear-gradient(top, #ff9100 0%, #ff6a00 100%); /* FF3.6+ */
+		background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#ff9100), color-stop(100%,#ff6a00)); /* Chrome,Safari4+ */
+		background: -webkit-linear-gradient(top, #ff9100 0%,#ff6a00 100%); /* Chrome10+,Safari5.1+ */
+		background: -o-linear-gradient(top, #ff9100 0%,#ff6a00 100%); /* Opera 11.10+ */
+		background: -ms-linear-gradient(top, #ff9100 0%,#ff6a00 100%); /* IE10+ */
+		background: linear-gradient(to bottom, #ff9100 0%,#ff6a00 100%); /* W3C */
+		border-radius: 5px;
+		-webkit-box-shadow: inset rgba(255, 255, 255, 0.45) 0 1px 0, inset rgba(0, 0, 0, 0.2) 0 -1px 0;
+		-moz-box-shadow: inset rgba(255, 255, 255, 0.45) 0 1px 0, inset rgba(0, 0, 0, 0.2) 0 -1px 0;
+		box-shadow: inset rgba(255, 255, 255, 0.45) 0 1px 0, inset rgba(0, 0, 0, 0.2) 0 -1px 0;
+		width: auto;
+	  
+		&:before {
+			content: '';
+			position: absolute;
+			z-index: -1;
+			left: -5px;
+			top: -4px;
+			right: -5px;
+			bottom: -6px;
+			background: rgba(0, 0, 0, 0.1);
+			-webkit-border-radius: 8px;
+			-moz-border-radius: 8px;
+			-ms-border-radius: 8px;
+			-o-border-radius: 8px;
+			border-radius: 8px;
+			-webkit-box-shadow: rgba(0, 0, 0, 0.2) 0 -1px 0, inset rgba(255, 255, 255, 0.7) 0 -1px 0;
+			-moz-box-shadow: rgba(0, 0, 0, 0.2) 0 -1px 0, inset rgba(255, 255, 255, 0.7) 0 -1px 0;
+			box-shadow: rgba(0, 0, 0, 0.2) 0 -1px 0, inset rgba(255, 255, 255, 0.7) 0 -1px 0;
+		}
+		li {
+			width: 90px;
+			float: left;
+			height: 38px;
+		}
+		li + li {
+			width: 90px;
+			border-left: 1px solid #A9A9A9;
+		}
+		li + li + li {
+			width: 90px;
+			border-right: none;
+		}
+		a {
+			line-height: 1;
+			font-size: 11px;
+			color: #fff;
+			color: rgba(255, 255, 255, 0.8);
+			display: block;
+			text-align: center;
+			font-weight: 400;
+			padding-top: 6px;
+			height: 40px;
+			text-shadow: rgba(0, 0, 0, 0.4) 0 -1px 0;
+			
+			strong {
+				font-size: 14px;
+				display: block;
+				color: #fff;
+				-webkit-font-smoothing: antialiased;
+			}
+		}
+
+	}
+
+	a {
+	  /*color: #069;*/
+	  color: #ff8000;
+	  text-decoration: none;
+	}
 }
 
-header a {
-  /*color: #069;*/
-  color: #ff8000;
-  text-decoration: none;
-}
 
 section {
   padding: 15px 20px;
@@ -228,13 +237,14 @@ code, pre {
 }
 
 pre {
-  padding: 20px;
-  background: #3A3C42;
-  color: #f8f8f2;
-  margin: 0 -20px 20px;
-}
-pre code {
-  color: #f8f8f2;
+	padding: 20px;
+	background: #3A3C42;
+	color: #f8f8f2;
+	margin: 0 -20px 20px;
+  
+	code {
+		color: #f8f8f2;
+	}
 }
 li pre {
   margin-left: -60px;
@@ -287,7 +297,7 @@ footer p {
   text-align: center;
 }
 
-@media print, screen and (max-width: 740px) {
+@media print, screen and (max-width: $viewport-large) {
   body {
     padding: 0;
   }
@@ -321,7 +331,7 @@ footer p {
     float: none;
   }
 }
-@media print, screen and (max-width:580px) {
+@media print, screen and (max-width: $viewport-small) {
   header ul {
     display: none;
   }
