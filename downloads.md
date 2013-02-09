@@ -3,7 +3,11 @@ layout: default
 title: Downloads
 ---
 
-## Windows
+Downloads
+---------
+
+### Windows
+
 **HexChat {{ site.current_version }}** ( [x86](http://dl.hexchat.org/hexchat/HexChat%20{{ site.current_version }}%20x86.exe) / [x64](http://dl.hexchat.org/hexchat/HexChat%20{{ site.current_version }}%20x64.exe) )
 
 <!-- **Required Visual C++ Redistributable** ( [x86](https://www.microsoft.com/en-us/download/details.aspx?id=8328) / [x64](https://www.microsoft.com/en-us/download/details.aspx?id=13523) ) -->
@@ -14,7 +18,8 @@ Python 2.7.3 for scripts ( [x86](http://python.org/ftp/python/2.7.3/python-2.7.3
 
 Perl 5.16.2 for scripts ( [x86](http://strawberryperl.com/download/5.16.2.1/strawberry-perl-5.16.2.1-32bit.msi) / [x64](http://strawberryperl.com/download/5.16.2.1/strawberry-perl-5.16.2.1-64bit.msi) )
 
-## Linux
+Linux
+-----
 List of some (not all) Linux distros that have HexChat packaged. Some are official others are not.
 - [Ubuntu/Mint PPA](https://launchpad.net/~gwendal-lebihan-dev/+archive/hexchat-stable)
 - [Fedora Repos](https://apps.fedoraproject.org/packages/hexchat)
@@ -25,5 +30,6 @@ List of some (not all) Linux distros that have HexChat packaged. Some are offici
 - Mageia 3 Repos
 - Fuduntu Repos
 
-## Source
+Source
+------
 - [2.9.4](http://dl.hexchat.org/hexchat/hexchat-2.9.4.tar.xz)
