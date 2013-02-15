@@ -93,10 +93,20 @@ These are some unofficial custom themes for HexChat. For information on how to i
     </td>
   </tr>
   <tr>
+ 	<td style="width:60px;border:0;">
+      <div style="text-align:center;">Solarized Dark</div>
+      <div style="display:block;text-align:center"><a href="http://dl.hexchat.org/themes/Solarized%20Dark.hct" imageanchor="1" rel="nofollow"><img border="0" src="http://i.imgur.com/NZh48PF.jpg" /></a></div>
+    </td>
+	<td style="width:60px;border:0;">
+      <div style="text-align:center;">Solarized Light</div>
+      <div style="display:block;text-align:center"><a href="http://dl.hexchat.org/themes/Solarized%20Light.hct" imageanchor="1" rel="nofollow"><img border="0" src="http://i.imgur.com/vKo1SuN.jpg" /></a></div>
+    </td>
     <td style="width:60px;border:0;">
       <div style="text-align:center;">Smog</div>
       <div style="display:block;text-align:center"><a href="http://dl.hexchat.org/themes/Smog.hct" imageanchor="1" rel="nofollow"><img border="0" src="https://sites.google.com/site/xchatwdk/_/rsrc/1342077093509/tips-tricks/hexchat-themes/smog.png" /></a></div>
     </td>
+  </tr>
+  <tr>
     <td style="width:60px;border:0;">
       <div style="text-align:center">Ubuntu Dark</div>
       <div style="display:block;text-align:center"><a href="http://dl.hexchat.org/themes/Ubuntu%20Dark.hct" imageanchor="1" rel="nofollow"><img border="0" src="https://sites.google.com/site/xchatwdk/_/rsrc/1342077093509/tips-tricks/hexchat-themes/ubuntudark.png" /></a></div>
@@ -105,8 +115,6 @@ These are some unofficial custom themes for HexChat. For information on how to i
       <div style="text-align:center">Ubuntu Light</div>
       <div style="display:block;text-align:center"><a href="http://dl.hexchat.org/themes/Ubuntu%20Light.hct" imageanchor="1" rel="nofollow"><img border="0" src="https://sites.google.com/site/xchatwdk/_/rsrc/1342077093509/tips-tricks/hexchat-themes/ubuntulight.png" /></a></div>
     </td>
-  </tr>
-  <tr>
     <td style="width:60px;border:0;">
       <div style="text-align:center">Zenburn</div>
       <div style="display:block;text-align:center"><a href="http://dl.hexchat.org/themes/Zenburn.hct" imageanchor="1" rel="nofollow"><img border="0" src="https://sites.google.com/site/xchatwdk/_/rsrc/1342360654665/tips-tricks/hexchat-themes/zenburn.png" /></a></div>
