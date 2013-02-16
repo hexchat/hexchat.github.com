@@ -14,6 +14,16 @@ Python 2.7.3 for scripts ( [x86](http://python.org/ftp/python/2.7.3/python-2.7.3
 
 Perl 5.16.2 for scripts ( [x86](http://strawberryperl.com/download/5.16.2.1/strawberry-perl-5.16.2.1-32bit.msi) / [x64](http://strawberryperl.com/download/5.16.2.1/strawberry-perl-5.16.2.1-64bit.msi) )
 
+**HexChat {{ site.next_version }} Test Build** ( [x86](http://dl.hexchat.org/hexchat/testing/tomek/HexChat-{{ site.next_version }}-x86.exe) / [x64](http://dl.hexchat.org/hexchat/testing/tomek/HexChat-{{ site.next_version }}-x64.exe) )
+
+**Visual C++ Redistributable** ( [x86](https://www.microsoft.com/en-us/download/details.aspx?id=8328) / [x64](https://www.microsoft.com/en-us/download/details.aspx?id=13523) )
+
+Dictionaries for spell checking ( [r2](http://dl.hexchat.org/hexchat/HexChat%20Spelling%20Dictionaries%20r2.exe) )
+
+Python 2.7.3 for scripts ( [x86](http://python.org/ftp/python/2.7.3/python-2.7.3.msi) / [x64](http://python.org/ftp/python/2.7.3/python-2.7.3.amd64.msi) )
+
+Perl 5.16.2 for scripts ( [x86](http://dl.hexchat.org/misc/Perl%205.16.2%20x86.msi) / [x64](http://dl.hexchat.org/misc/Perl%205.16.2%20x64.msi) )
+
 ## Linux
 List of some (not all) Linux distros that have HexChat packaged. Some are official others are not.
 - [Ubuntu/Mint PPA](https://launchpad.net/~gwendal-lebihan-dev/+archive/hexchat-stable)
