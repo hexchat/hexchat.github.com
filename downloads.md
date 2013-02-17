@@ -14,6 +14,8 @@ Python 2.7.3 for scripts ( [x86](http://python.org/ftp/python/2.7.3/python-2.7.3
 
 Perl 5.16.2 for scripts ( [x86](http://strawberryperl.com/download/5.16.2.1/strawberry-perl-5.16.2.1-32bit.msi) / [x64](http://strawberryperl.com/download/5.16.2.1/strawberry-perl-5.16.2.1-64bit.msi) )
 
+<br />
+
 **HexChat {{ site.next_version }} Test Build** ( [x86](http://dl.hexchat.org/hexchat/testing/tomek/HexChat-{{ site.next_version }}-x86.exe) / [x64](http://dl.hexchat.org/hexchat/testing/tomek/HexChat-{{ site.next_version }}-x64.exe) )
 
 **Visual C++ Redistributable** ( [x86](https://www.microsoft.com/en-us/download/details.aspx?id=8328) / [x64](https://www.microsoft.com/en-us/download/details.aspx?id=13523) )
