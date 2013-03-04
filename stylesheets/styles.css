@@ -132,6 +132,17 @@ header ul li {
   float: left;
   height: 38px;
 }
+header ul li:hover {
+  background: #ae1000;
+  background: #ba2500;
+  background: -moz-linear-gradient(top,  #ba2500 0%, #ae1000 100%);
+  background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#ba2500), color-stop(100%,#ae1000));
+  background: -webkit-linear-gradient(top,  #ba2500 0%,#ae1000 100%);
+  background: -o-linear-gradient(top,  #ba2500 0%,#ae1000 100%);
+  background: -ms-linear-gradient(top,  #ba2500 0%,#ae1000 100%);
+  background: linear-gradient(to bottom,  #ba2500 0%,#ae1000 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ba2500', endColorstr='#ae1000',GradientType=0 );
+}
 header ul li + li {
   width: 90px;
   border-left: 1px solid #A9A9A9;
