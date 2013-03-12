@@ -24,7 +24,7 @@ Dictionaries for spell checking ( [r2](http://dl.hexchat.org/hexchat/HexChat%20S
 
 Python 2.7.3 for scripts ( [x86](http://python.org/ftp/python/2.7.3/python-2.7.3.msi) / [x64](http://python.org/ftp/python/2.7.3/python-2.7.3.amd64.msi) )
 
-Perl 5.16.2 for scripts ( [x86](http://dl.hexchat.org/misc/Perl%205.16.2%20x86.msi) / [x64](http://dl.hexchat.org/misc/Perl%205.16.2%20x64.msi) )
+Perl 5.16.3 for scripts ( [x86](http://dl.hexchat.org/misc/perl/Perl%205.16.3%20x86.msi) / [x64](http://dl.hexchat.org/misc/perl/Perl%205.16.3%20x64.msi) )
 
 ## Linux
 List of some Linux distros that have HexChat packaged.
