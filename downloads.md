@@ -12,7 +12,7 @@ Dictionaries for spell checking ( [r1](http://dl.hexchat.org/hexchat/HexChat%20S
 
 Python 2.7.3 for scripts ( [x86](http://python.org/ftp/python/2.7.3/python-2.7.3.msi) / [x64](http://python.org/ftp/python/2.7.3/python-2.7.3.amd64.msi) )
 
-Perl 5.16.2 for scripts ( [x86](http://strawberryperl.com/download/5.16.2.1/strawberry-perl-5.16.2.1-32bit.msi) / [x64](http://strawberryperl.com/download/5.16.2.1/strawberry-perl-5.16.2.1-64bit.msi) )
+Perl 5.16.3 for scripts ( [x86](http://strawberry-perl.googlecode.com/files/strawberry-perl-5.16.3.1-32bit.msi) / [x64](http://strawberry-perl.googlecode.com/files/strawberry-perl-5.16.3.1-64bit.msi) )
 
 <br />
 
