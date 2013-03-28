@@ -16,7 +16,7 @@ Perl 5.16.3 for scripts ( [x86](http://strawberry-perl.googlecode.com/files/stra
 
 <br />
 
-**HexChat {{ site.next_version }} Test Build** ( [x86](http://dl.hexchat.org/hexchat/testing/tomek/HexChat-{{ site.next_version }}-x86.exe) / [x64](http://dl.hexchat.org/hexchat/testing/tomek/HexChat-{{ site.next_version }}-x64.exe) )
+**HexChat {{ site.next_version }} Release Candidate** ( [x86](http://dl.hexchat.org/hexchat/testing/HexChat%20{{ site.next_version }}rc1%20x86.exe) / [x64](http://dl.hexchat.org/hexchat/testing/HexChat%20{{ site.next_version }}rc1%20x64.exe) )
 
 **Visual C++ Redistributable** ( [x86](https://www.microsoft.com/en-us/download/details.aspx?id=8328) / [x64](https://www.microsoft.com/en-us/download/details.aspx?id=13523) )
 
