@@ -24,15 +24,10 @@ Python 2.7.3 for scripts ( [x86](http://python.org/ftp/python/2.7.3/python-2.7.3
 Perl 5.16.3 for scripts ( [x86](http://strawberry-perl.googlecode.com/files/strawberry-perl-5.16.3.1-32bit.msi) / [x64](http://strawberry-perl.googlecode.com/files/strawberry-perl-5.16.3.1-64bit.msi) )
 
 ## Linux
-List of some Linux distros that have HexChat packaged.
+Quite a few distributions have official packages for HexChat. On those which don't, you may use contributed, unofficial packages:
 - [Ubuntu/Mint PPA](https://launchpad.net/~gwendal-lebihan-dev/+archive/hexchat-stable)
-- [Fedora Repos](https://apps.fedoraproject.org/packages/hexchat)
-- [Arch User Repository](https://aur.archlinux.org/packages/hexchat/)
 - [openSUSE build service](http://software.opensuse.org/package/hexchat)
 - [EPEL Repos for CentOS/Red Hat](https://apps.fedoraproject.org/packages/hexchat)
-- [Bodhi Linux Appcenter](http://appcenter.bodhilinux.com/software/showDesc/HexChat_-_IRC)
-- Mageia 3 Repos
-- Fuduntu Repos
 
 ## Source
 - [{{ site.current_version }}](http://dl.hexchat.org/hexchat/hexchat-{{ site.current_version }}.tar.xz)
