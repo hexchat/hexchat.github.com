@@ -26,4 +26,4 @@ List of some Linux distros that have HexChat packaged.
 - Fuduntu Repos
 
 ## Source
-- [2.9.4](http://dl.hexchat.org/hexchat/hexchat-2.9.4.tar.xz)
+- [{{ site.current_version }}](http://dl.hexchat.org/hexchat/hexchat-{{ site.current_version }}.tar.xz)
