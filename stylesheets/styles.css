@@ -165,6 +165,10 @@ header a {
   text-decoration: none;
 }
 
+a.h1 { /* H1 link color fix */
+  color: #fa4b00;
+}
+
 section {
   padding: 15px 20px;
   font-size: 15px;
