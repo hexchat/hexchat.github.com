@@ -30,4 +30,6 @@ Quite a few distributions have official packages for HexChat. On those which don
 - [EPEL Repos for CentOS/Red Hat](https://apps.fedoraproject.org/packages/hexchat)
 
 ## Source
+- [Development Version](https://github.com/hexchat/hexchat/archive/master.tar.gz)
 - [{{ site.current_version }}](http://dl.hexchat.org/hexchat/hexchat-{{ site.current_version }}.tar.xz)
+- [Archives](http://dl.hexchat.org/hexchat/)
