@@ -14,7 +14,7 @@ Python 2.7.4 for scripts ( [x86](http://python.org/ftp/python/2.7.4/python-2.7.4
 
 Perl 5.16.3 for scripts ( [x86](http://dl.hexchat.org/misc/perl/Perl%205.16.3%20x86.msi) / [x64](http://dl.hexchat.org/misc/perl/Perl%205.16.3%20x64.msi) )
 
-**HexChat {{ site.next_version }} Alpha 2** ( [x86](http://dl.hexchat.org/hexchat/testing/HexChat%20{{ site.next_version }}a2%20x86.exe) / [x64](http://dl.hexchat.org/hexchat/testing/HexChat%20{{ site.next_version }}a2%20x64.exe) )
+**HexChat {{ site.next_version }} Alpha 3** ( [x86](http://dl.hexchat.org/hexchat/testing/HexChat%20{{ site.next_version }}a3%20x86.exe) / [x64](http://dl.hexchat.org/hexchat/testing/HexChat%20{{ site.next_version }}a3%20x64.exe) )
 
 Visual C++ 2012 Update 1 Redistributable ( [x86](http://www.microsoft.com/en-us/download/details.aspx?id=30679) / [x64](http://www.microsoft.com/en-us/download/details.aspx?id=30679) )
 
