@@ -10,7 +10,7 @@ Visual C++ 2010 SP1 Redistributable ( [x86](https://www.microsoft.com/en-us/down
 
 Dictionaries for spell checking ( [r2](http://dl.hexchat.org/hexchat/HexChat%20Spelling%20Dictionaries%20r2.exe) )
 
-Python 2.7.4 for scripts ( [x86](http://python.org/ftp/python/2.7.4/python-2.7.4.msi) / [x64](http://python.org/ftp/python/2.7.4/python-2.7.4.amd64.msi) )
+Python 2.7.5 for scripts ( [x86](http://python.org/ftp/python/2.7.5/python-2.7.5.msi) / [x64](http://python.org/ftp/python/2.7.5/python-2.7.5.amd64.msi) )
 
 Perl 5.16.3 for scripts ( [x86](http://dl.hexchat.org/misc/perl/Perl%205.16.3%20x86.msi) / [x64](http://dl.hexchat.org/misc/perl/Perl%205.16.3%20x64.msi) )
 
