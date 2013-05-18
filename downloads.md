@@ -23,7 +23,7 @@ Visual C++ 2012 Update 1 Redistributable ( [x86](http://www.microsoft.com/en-us/
 
 Dictionaries for spell checking ( [r1](http://dl.hexchat.org/hexchat/HexChat%20Spelling%20Dictionaries%20r1.exe) )
 
-Python 2.7.4 for scripts ( [x86](http://python.org/ftp/python/2.7.5/python-2.7.5.msi) / [x64](http://python.org/ftp/python/2.7.5/python-2.7.5.amd64.msi) )
+Python 2.7.5 for scripts ( [x86](http://python.org/ftp/python/2.7.5/python-2.7.5.msi) / [x64](http://python.org/ftp/python/2.7.5/python-2.7.5.amd64.msi) )
 
 Perl 5.16.3 for scripts ( [x86](http://strawberry-perl.googlecode.com/files/strawberry-perl-5.16.3.1-32bit.msi) / [x64](http://strawberry-perl.googlecode.com/files/strawberry-perl-5.16.3.1-64bit.msi) )
 
