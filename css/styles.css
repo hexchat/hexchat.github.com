@@ -159,6 +159,15 @@ header ul a strong {
   color: #fff;
   -webkit-font-smoothing: antialiased;
 }
+header ul li:hover {
+  background: #ff9c1a; /* Old browsers */
+  background: -moz-linear-gradient(top, #ff9c1a 0%, #e65f00 100%); /* FF3.6+ */
+  background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#ff9c1a), color-stop(100%,#e65f00)); /* Chrome,Safari4+ */
+  background: -webkit-linear-gradient(top, #ff9c1a 0%,#e65f00 100%); /* Chrome10+,Safari5.1+ */
+  background: -o-linear-gradient(top, #ff9c1a 0%,#e65f00 100%); /* Opera 11.10+ */
+  background: -ms-linear-gradient(top, #ff9c1a 0%,#e65f00 100%); /* IE10+ */
+  background: linear-gradient(to bottom, #ff9c1a 0%,#e65f00 100%); /* W3C */
+}
 
 header a {
   /*color: #069;*/
@@ -167,7 +176,7 @@ header a {
 }
 
 a.h1 { /* H1 link color fix */
-  color: #fa4b00;
+  color: #ff6a00;
 }
 
 section {
