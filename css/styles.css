@@ -1,4 +1,5 @@
 @import url(https://fonts.googleapis.com/css?family=Lato:400italic,700italic,400,700);
+
 html {
   background: #434b55 url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAeCAYAAABNChwpAAAABHNCSVQICAgIfAhkiAAAAAlwSFlzAAALEgAACxIB0t1+/AAAABx0RVh0U29mdHdhcmUAQWRvYmUgRmlyZXdvcmtzIENTNXG14zYAAAAUdEVYdENyZWF0aW9uIFRpbWUAMy82LzEygrTcTAAAAFRJREFUSIljfPDggZRf5RIGGNjUHsNATz6jXmSL1Kb2GLiAX+USBnrymRgGGDCORgFmoNAXjEbBaBSMRsFoFIxGwWgUjEbBaBSMRsFoFIxGwWgUAABYNujumib3wAAAAABJRU5ErkJggg==') fixed;
 }
@@ -223,7 +224,7 @@ img {
 }
 
 code, pre {
-  font-family: Monaco, Bitstream Vera Sans Mono, Lucida Console, Terminal;
+  font-family: Monaco, "Bitstream Vera Sans Mono", monospace;
   color: #333;
   font-size: 12px;
   overflow-x: auto;
@@ -275,6 +276,7 @@ hr {
 }
 
 footer {
+  font-size: smaller;
   width: 640px;
   margin: 0 auto;
   padding: 20px 0 0;
@@ -286,6 +288,11 @@ footer a {
   font-weight: bold;
 }
 footer p {
+  text-align: center;
+}
+
+p.center {
+  font-weight: bold;
   text-align: center;
 }
 
@@ -323,7 +330,7 @@ footer p {
     float: none;
   }
 }
-@media print, screen and (max-width:580px) {
+@media print, screen and (max-width: 580px) {
   header ul {
     display: none;
   }
@@ -335,5 +342,4 @@ footer p {
   header p {
     width: 100%;
   }
-}
 }
