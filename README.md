@@ -1,2 +1,2 @@
-hexchat.github.com
-==================
+hexchat.github.io
+=
