@@ -19,3 +19,4 @@ HexChat was originally called XChat-WDK which in turn was a successor of freaksc
 - Multi-network with auto-connect, join, and identify
 - Spellcheck, Proxies, SASL, DCC support and [more](http://docs.hexchat.org/en/latest/)
 
+[Donate Bitcoin](https://coinbase.com/checkouts/3fdb4bab2e9b618e21c1998e5f45e2b0)
