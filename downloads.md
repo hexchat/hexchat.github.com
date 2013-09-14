@@ -27,6 +27,7 @@ Perl 5.16.3 for scripts ( [x86](http://strawberry-perl.googlecode.com/files/stra
 Quite a few distributions have official packages for HexChat. On those which don't, you may use contributed, unofficial packages:
 
 - [Ubuntu/Mint PPA](https://launchpad.net/~gwendal-lebihan-dev/+archive/hexchat-stable)
+- [Debian 7](http://dl.hexchat.net/hexchat/debian/) 
 
 ## Source
 - [Development Version](https://github.com/hexchat/hexchat/archive/master.tar.gz)
