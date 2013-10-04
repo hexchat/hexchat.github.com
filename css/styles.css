@@ -4,7 +4,6 @@ html {
 
 body {
   padding: 50px 0;
-  margin: 0;
   font: 14px/1.5 Lato, Helvetica, Arial, sans-serif;
   color: #555;
   font-weight: 400;
@@ -24,10 +23,6 @@ body {
   box-shadow: rgba(0, 0, 0, 0.2) 0 0 0 1px, rgba(0, 0, 0, 0.45) 0 3px 10px;
 }
 
-header, section, footer {
-  display: block;
-}
-
 a {
   color: #ff4d00;
   text-decoration: none;
@@ -40,7 +35,6 @@ p {
 
 strong {
   color: #222;
-  font-weight: 700;
 }
 
 header {
@@ -239,7 +233,6 @@ blockquote {
 }
 
 img {
-  border: 0;
   max-width: 100%;
 }
 
@@ -268,7 +261,6 @@ li pre {
 
 table {
   width: 100%;
-  border-collapse: collapse;
 }
 
 th, td {
@@ -284,10 +276,6 @@ dt {
 
 th {
   color: #222;
-}
-
-small {
-  font-size: 11px;
 }
 
 hr {
