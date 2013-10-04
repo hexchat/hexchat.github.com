@@ -60,6 +60,7 @@ header {
   padding: 15px 20px;
   border-bottom: 1px solid #FF9933;
 }
+
 header h1 {
   margin: 0;
   padding: 0;
@@ -68,23 +69,28 @@ header h1 {
   color: #686868;
   text-shadow: rgba(255, 255, 255, 0.9) 0 1px 0;
 }
+
 header p {
   margin: 0;
   color: #686868;
   width: 300px;
   font-size: 13px;
 }
+
 header p.view {
   display: none;
   font-weight: 700;
   -webkit-font-smoothing: antialiased;
 }
+
 header p.view a {
   color: #ff8000;
 }
+
 header p.view small {
   font-weight: 400;
 }
+
 header ul {
   margin: 0;
   list-style: none;
@@ -107,6 +113,7 @@ header ul {
   box-shadow: inset rgba(255, 255, 255, 0.45) 0 1px 0, inset rgba(0, 0, 0, 0.2) 0 -1px 0;
   width: auto;
 }
+
 header ul:before {
   content: '';
   position: absolute;
@@ -125,19 +132,23 @@ header ul:before {
   -moz-box-shadow: rgba(0, 0, 0, 0.2) 0 -1px 0, inset rgba(255, 255, 255, 0.7) 0 -1px 0;
   box-shadow: rgba(0, 0, 0, 0.2) 0 -1px 0, inset rgba(255, 255, 255, 0.7) 0 -1px 0;
 }
+
 header ul li {
   width: 90px;
   float: left;
   height: 38px;
 }
+
 header ul li + li {
   width: 90px;
   border-left: 1px solid #A9A9A9;
 }
+
 header ul li + li + li {
   border-right: none;
   width: 90px;
 }
+
 header ul a {
   line-height: 1;
   font-size: 11px;
@@ -150,12 +161,14 @@ header ul a {
   height: 40px;
   text-shadow: rgba(0, 0, 0, 0.4) 0 -1px 0;
 }
+
 header ul a strong {
   font-size: 14px;
   display: block;
   color: #fff;
   -webkit-font-smoothing: antialiased;
 }
+
 header ul li:hover {
   background: #ff9c1a; /* Old browsers */
   background: -moz-linear-gradient(top, #ff9c1a 0%, #e65f00 100%); /* FF3.6+ */
@@ -243,9 +256,11 @@ pre {
   color: #f8f8f2;
   margin: 0 -20px 20px;
 }
+
 pre code {
   color: #f8f8f2;
 }
+
 li pre {
   margin-left: -60px;
   padding-left: 60px;
@@ -290,10 +305,12 @@ footer {
   color: #ccc;
   overflow: hidden;
 }
+
 footer a {
   color: #fff;
   font-weight: bold;
 }
+
 footer p {
   text-align: center;
 }
@@ -347,14 +364,17 @@ footer p {
     padding: 20px;
     width: auto;
   }
+
   footer p {
     float: none;
     margin: 0;
   }
+
   footer p + p {
     float: none;
   }
 }
+
 @media print, screen and (max-width: 580px) {
   header ul {
     display: none;
