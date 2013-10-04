@@ -87,7 +87,6 @@ header p.view small {
 }
 header ul {
   margin: 0;
-  padding: 0;
   list-style: none;
   position: absolute;
   z-index: 1;
@@ -298,7 +297,7 @@ footer p {
   text-align: center;
 }
 
-p.center {
+.center {
   font-weight: bold;
   text-align: center;
 }
