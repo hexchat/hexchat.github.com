@@ -10,7 +10,7 @@ layout: nil
     <loc>http://{{ site.domain }}/</loc>
     <lastmod>{{ site.time | date: "%Y-%m-%d" }}</lastmod>
     <changefreq>daily</changefreq>
-		<priority>1.0</priority>
+    <priority>1.0</priority>
   </url>
 
   {% for page in site.posts %}
