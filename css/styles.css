@@ -226,6 +226,7 @@ blockquote {
 }
 
 img {
+  border: 0;
   max-width: 100%;
 }
 
@@ -298,8 +299,26 @@ footer p {
 }
 
 .center {
-  font-weight: bold;
   text-align: center;
+}
+
+.rss-icon {
+  vertical-align: -7%;
+}
+
+.theme-td {
+  width: 60px;
+  border: 0;
+}
+
+.theme-td > div + div {
+  display: block;
+  text-align: center;
+}
+
+.thumb {
+  float: right;
+  margin-top: 25px;
 }
 
 @media print, screen and (max-width: 740px) {
