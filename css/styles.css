@@ -4,9 +4,8 @@ html {
 
 body {
   padding: 50px 0;
-  font: 14px/1.5 Lato, Helvetica, Arial, sans-serif;
+  font: normal 14px/1.5 Lato, Helvetica, Arial, sans-serif;
   color: #555;
-  font-weight: 400;
 }
 
 .wrapper {
@@ -174,12 +173,11 @@ header ul li:hover {
 }
 
 header a {
-  /*color: #069;*/
   color: #ff8000;
   text-decoration: none;
 }
 
-a.h1 { /* H1 link color fix */
+a.h1 {
   color: #ff6a00;
 }
 
@@ -203,7 +201,7 @@ h1, h2, h3, h4, h5, h6 {
   line-height: 1.2;
 }
 
-p, ul, ol, table, pre, dl {
+p, ul, ol, table {
   margin: 0 0 20px;
 }
 
@@ -223,40 +221,8 @@ h3, h4, h5, h6 {
   color: #494949;
 }
 
-blockquote {
-  margin: 0 -20px 20px;
-  padding: 15px 20px 1px 40px;
-  font-style: italic;
-  background: #ccc;
-  background: rgba(0, 0, 0, 0.06);
-  color: #222;
-}
-
 img {
   max-width: 100%;
-}
-
-code, pre {
-  font-family: Monaco, "Bitstream Vera Sans Mono", monospace;
-  color: #333;
-  font-size: 12px;
-  overflow-x: auto;
-}
-
-pre {
-  padding: 20px;
-  background: #3A3C42;
-  color: #f8f8f2;
-  margin: 0 -20px 20px;
-}
-
-pre code {
-  color: #f8f8f2;
-}
-
-li pre {
-  margin-left: -60px;
-  padding-left: 60px;
 }
 
 table {
@@ -267,11 +233,6 @@ th, td {
   text-align: left;
   padding: 5px 10px;
   border-bottom: 1px solid #aaa;
-}
-
-dt {
-  color: #222;
-  font-weight: 700;
 }
 
 th {
