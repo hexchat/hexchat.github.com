@@ -1,12 +1,12 @@
 /*csslint font-sizes: false, qualified-headings: false, unique-headings: false*/
 
 html {
+  font: normal 14px/1.5 Lato, Helvetica, Arial, sans-serif;
   background: #434b55 url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAeCAYAAABNChwpAAAABHNCSVQICAgIfAhkiAAAAAlwSFlzAAALEgAACxIB0t1+/AAAABx0RVh0U29mdHdhcmUAQWRvYmUgRmlyZXdvcmtzIENTNXG14zYAAAAUdEVYdENyZWF0aW9uIFRpbWUAMy82LzEygrTcTAAAAFRJREFUSIljfPDggZRf5RIGGNjUHsNATz6jXmSL1Kb2GLiAX+USBnrymRgGGDCORgFmoNAXjEbBaBSMRsFoFIxGwWgUjEbBaBSMRsFoFIxGwWgUAABYNujumib3wAAAAABJRU5ErkJggg==") fixed;
 }
 
 body {
   padding: 50px 0;
-  font: normal 14px/1.5 Lato, Helvetica, Arial, sans-serif;
   color: #555;
 }
 
@@ -196,18 +196,26 @@ section {
   position: relative;
 }
 
-h1, h2, h3, h4, h5, h6 {
+h1,
+h2,
+h3,
+h4,
+h5 {
   color: #222;
   padding: 0;
   margin: 0 0 20px;
   line-height: 1.2;
 }
 
-p, ul, ol, table {
+p,
+ul,
+table {
   margin: 0 0 20px;
 }
 
-h1, h2, h3 {
+h1,
+h2,
+h3 {
   line-height: 1.1;
 }
 
@@ -219,19 +227,14 @@ h2 {
   color: #393939;
 }
 
-h3, h4, h5, h6 {
+h3,
+h4,
+h5 {
   color: #494949;
 }
 
-img {
-  max-width: 100%;
-}
-
-table {
-  width: 100%;
-}
-
-th, td {
+th,
+td {
   text-align: left;
   padding: 5px 10px;
   border-bottom: 1px solid #aaa;
@@ -272,6 +275,10 @@ footer p {
 
 .rss-icon {
   vertical-align: -7%;
+}
+
+.theme-table {
+  width: 100%;
 }
 
 .theme-table td {
