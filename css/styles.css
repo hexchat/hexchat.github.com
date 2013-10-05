@@ -1,3 +1,5 @@
+/*csslint font-sizes: false, qualified-headings: false, unique-headings: false*/
+
 html {
   background: #434b55 url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAeCAYAAABNChwpAAAABHNCSVQICAgIfAhkiAAAAAlwSFlzAAALEgAACxIB0t1+/AAAABx0RVh0U29mdHdhcmUAQWRvYmUgRmlyZXdvcmtzIENTNXG14zYAAAAUdEVYdENyZWF0aW9uIFRpbWUAMy82LzEygrTcTAAAAFRJREFUSIljfPDggZRf5RIGGNjUHsNATz6jXmSL1Kb2GLiAX+USBnrymRgGGDCORgFmoNAXjEbBaBSMRsFoFIxGwWgUjEbBaBSMRsFoFIxGwWgUAABYNujumib3wAAAAABJRU5ErkJggg==") fixed;
 }
@@ -273,12 +275,8 @@ footer p {
 }
 
 .theme-table td {
-  width: 60px;
+  width: 230px;
   border: 0;
-}
-
-.theme-table td > div + div {
-  display: block;
   text-align: center;
 }
 
