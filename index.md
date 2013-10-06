@@ -1,5 +1,7 @@
 ---
 layout: default
+title: Home
+description: HexChat, an open-source, cross-platform IRC client
 ---
 
 ####About
