@@ -294,7 +294,7 @@ footer p {
   margin-top: 25px;
 }
 
-@media print, screen and (max-width: 740px) {
+@media print, screen and (max-width: 991px) {
   body {
     padding: 0;
   }
@@ -328,7 +328,7 @@ footer p {
 
 }
 
-@media print, screen and (max-width: 580px) {
+@media print, screen and (max-width: 768px) {
   header ul {
     display: none;
   }
