@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Shareware Background
+title: Shareware background
 ---
 
-##Shareware Background
+##Shareware background
 
 The Official Windows build of XChat is Shareware, and after 30 days, a one time fee of $19.99 is required. This page will hopefully help you understand how this relates to the GPL, and why it was done.
 
