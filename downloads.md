@@ -6,7 +6,7 @@ title: Downloads
 ## Windows Vista/7/8
 **HexChat {{ site.current_version }}** ( [x86](http://dl.hexchat.net/hexchat/HexChat%20{{ site.current_version }}%20x86.exe) / [x64](http://dl.hexchat.net/hexchat/HexChat%20{{ site.current_version }}%20x64.exe) )
 
-Visual C++ Redistributable ( [2012](https://www.microsoft.com/en-us/download/details.aspx?id=30679) )
+Visual C++ 2012 Redistributable ( [x86](http://download.microsoft.com/download/1/6/B/16B06F60-3B20-4FF2-B699-5E9B7962F9AE/VSU3/vcredist_x86.exe) / [x64](http://download.microsoft.com/download/1/6/B/16B06F60-3B20-4FF2-B699-5E9B7962F9AE/VSU3/vcredist_x64.exe) )
 
 Dictionaries for spell checking ( [r2](http://dl.hexchat.net/hexchat/HexChat%20Spelling%20Dictionaries%20r2.exe) )
 
