@@ -91,11 +91,11 @@ These are some unofficial custom themes for HexChat. For information on how to i
     </td>
   </tr>
   <tr>
- 	<td>
+    <td>
       Solarized Dark
       <a href="http://dl.hexchat.net/themes/Solarized%20Dark.hct" rel="nofollow"><img src="/img/themes/Solarized_Dark.png" alt="Solarized Dark" width="208" height="223"/></a>
     </td>
-	<td>
+    <td>
       Solarized Light
       <a href="http://dl.hexchat.net/themes/Solarized%20Light.hct" rel="nofollow"><img src="/img/themes/Solarized_Light.png" alt="Solarized Light" width="208" height="223"/></a>
     </td>
