@@ -29,6 +29,12 @@ Quite a few distributions have official packages for HexChat. On those which don
 - [Ubuntu/Mint PPA](https://launchpad.net/~gwendal-lebihan-dev/+archive/hexchat-stable)
 - [Debian 7](http://dl.hexchat.net/hexchat/debian/)
 
+## OS X
+The OS X build is experimental and may not be as tested or supported as the Windows/Linux releases but you can
+download HexChat.app here:
+
+- [dl.hexchat.net/hexchat/osx/](http://dl.hexchat.net/hexchat/osx/)
+
 ## Source
 - [Development Version](https://github.com/hexchat/hexchat/archive/master.tar.gz)
 - [{{ site.current_version }}](http://dl.hexchat.net/hexchat/hexchat-{{ site.current_version }}.tar.xz)
