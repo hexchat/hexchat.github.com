@@ -3,7 +3,7 @@ layout: default
 title: Shareware background
 ---
 
-##Shareware background
+## Shareware background
 
 The Official Windows build of XChat is Shareware, and after 30 days, a one time fee of $19.99 is required. This page will hopefully help you understand how this relates to the GPL, and why it was done.
 
@@ -13,25 +13,25 @@ The process for doing this was tedious compared to the X11 version, and the time
 
 Anyone is free to compile XChat for Windows if they want, however there are some complications to this. There are several people who have, and some of those have released their builds for others to use. This is completely legal, and some would argue in the spirit of the GPL. If you are interested in having a free alternative to the official build, you can check out the unofficial builds.
 
-###Features Specific to Official Build
+### Features Specific to Official Build
 
 There are a few features that are specific to the official build which are not in the source code. Some of these are due to the nature of them being MS Windows specific needs, others are because of feasibility on Linux.
 
-####Graphical Smilies
+#### Graphical Smilies
 
 The official version includes the ability to include graphical smilies and icons in the main text area. As the code for inline graphics has not been released, it is not possible to see if the code would have worked on POSIX systems or not. It should be possible to include graphics for all versions of XChat with a proper patch, however this has not been done. While SilvereX does claim to support emoticons and the Eye Candy theme, not all of the support is included.
 
-####DCC Server
+#### DCC Server
 
 mIRC introduced an addition to the IRC protocol with the /dccserver command, which allowed sends to go from the "server" to the client, but have the client initiate the communication. The receiver would then get the information, rather than having the sender push the information. By doing this, the responsibility for having more open ports fell on the receiver. The port normally specified for this was Port 59, which is one of the ports restricted by POSIX systems to privileged users. Because it is a bad idea to run normal applications as privileged users (for security and exploit purposes), it does not make sense to include this feature which primarily makes use of port 59. There are, however, patches available if building XChat in an environment where the user is privileged, such as other Windows machines. See DCC Server for more information.
 
 All versions of XChat include a /dcc psend command which will send a file using passive mode, which is what /dccserver was setup to do, however it does not require the recipient to have a specific open port, however it does require the recipient to have more flexibility in terms of the firewall.
 
-####Integration with the Desktop
+#### Integration with the Desktop
 
 XChat includes support for native file handling dialogs on Windows, rather than using the GTK version. Because it also uses a static version of GTK (using MiniGTK), zed is able to better integrate XChat with the Windows environment. Some of the unofficial builds use MiniGTK as well, but this is a feature that is not included with the base source code (as MiniGTK is pointless outside of a Windows environment).
 
-###Accused violations of copyright
+### Accused violations of copyright
 
 After this move to shareware, there were many accusations of copyright infringement. Some of these accusations have more merit than others. There had been accusations that a shareware model was incompatible with the GPL if any libraries were linked to. XChat however uses LGPL libraries, which do not have restrictions as to what applications can use them.
 
