@@ -1,8 +1,7 @@
 # custom variables
 title:              HexChat
-current_version:    2.9.6.1
-next_version:       2.9.6
 url:                http://hexchat.github.io
+version:            2.9.6.1
 
 # permalinks
 permalink:          /news/:title.html
