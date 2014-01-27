@@ -4,7 +4,7 @@ title: Downloads
 ---
 
 ## Windows Vista/7/8
-**HexChat {{ site.current_version }}** ( [x86](http://dl.hexchat.net/hexchat/HexChat%20{{ site.current_version }}%20x86.exe) / [x64](http://dl.hexchat.net/hexchat/HexChat%20{{ site.current_version }}%20x64.exe) )
+**HexChat {{ site.version }}** ( [x86](http://dl.hexchat.net/hexchat/HexChat%20{{ site.version }}%20x86.exe) / [x64](http://dl.hexchat.net/hexchat/HexChat%20{{ site.version }}%20x64.exe) )
 
 Visual C++ 2012 Redistributable ( [x86](http://download.microsoft.com/download/1/6/B/16B06F60-3B20-4FF2-B699-5E9B7962F9AE/VSU3/vcredist_x86.exe) / [x64](http://download.microsoft.com/download/1/6/B/16B06F60-3B20-4FF2-B699-5E9B7962F9AE/VSU3/vcredist_x64.exe) )
 
@@ -37,5 +37,5 @@ download HexChat.app here:
 
 ## Source
 - [Development Version](https://github.com/hexchat/hexchat/archive/master.tar.gz)
-- [{{ site.current_version }}](http://dl.hexchat.net/hexchat/hexchat-{{ site.current_version }}.tar.xz)
+- [{{ site.version }}](http://dl.hexchat.net/hexchat/hexchat-{{ site.version }}.tar.xz)
 - [Archives](http://dl.hexchat.net/hexchat/)

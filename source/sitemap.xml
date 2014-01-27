@@ -1,21 +1,20 @@
 ---
 layout: nil
 ---
-
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
-  <!--  Homepage -->
+  <!-- Homepage -->
   <url>
-    <loc>http://{{ site.domain }}/</loc>
-    <lastmod>{{ site.time | date: "%Y-%m-%d" }}</lastmod>
+    <loc>{{ site.url }}/</loc>
+    <lastmod>{{ site.time | date_to_xmlschema }}</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
 
   {% for page in site.posts %}
   <url>
-    <loc>http://{{ site.domain }}{{ page.url }}</loc>
+    <loc>{{ site.url }}{{ page.url }}</loc>
     {% if page.last_updated %}
     <lastmod>{{ page.last_updated | date: "%Y-%m-%d" }}</lastmod>
     {% elsif page.date %}
@@ -28,7 +27,7 @@ layout: nil
 
   {% for page in site.html_pages %}
   <url>
-    <loc>http://{{ site.domain }}{{ page.url }}</loc>
+    <loc>{{ site.url }}{{ page.url }}</loc>
     {% if page.last_updated %}
     <lastmod>{{ page.last_updated | date: "%Y-%m-%d" }}</lastmod>
     {% elsif page.date %}

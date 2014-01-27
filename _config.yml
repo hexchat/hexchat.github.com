@@ -1,6 +1,11 @@
-title: HexChat
-current_version: 2.9.6.1
-next_version: 2.9.6
-domain: hexchat.github.io
+# custom variables
+title:              HexChat
+url:                http://hexchat.github.io
+version:            2.9.6.1
 
-permalink: /news/:title.html
+# permalinks
+permalink:          /news/:title.html
+
+# server
+source:             ./source/
+destination:        ./_site/

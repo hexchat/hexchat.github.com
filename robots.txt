@@ -1,4 +1,0 @@
-# robotstxt.org
-User-agent: *
-Disallow:
-Sitemap: http://hexchat.github.io/sitemap.xml
