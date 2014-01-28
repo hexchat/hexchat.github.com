@@ -30,8 +30,8 @@ Quite a few distributions have official packages for HexChat. On those which don
 - [Debian 7](http://dl.hexchat.net/hexchat/debian/)
 
 ## OS X
-The OS X build is experimental and may not be as tested or supported as the Windows/Linux releases but you can
-download HexChat.app here:
+The OS X build is experimental and may not be as supported as the Windows/Linux versions. It is built on 10.9 so
+scripting languages may not work on older releases. You can download HexChat.app here:
 
 - [dl.hexchat.net/hexchat/osx/](http://dl.hexchat.net/hexchat/osx/)
 
