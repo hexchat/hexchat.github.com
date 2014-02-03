@@ -4,6 +4,18 @@ layout: nil
 
 {% include css/normalize.min.css %}
 
+* {
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+}
+*:before,
+*:after {
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+}
+
 body {
   background: #434b55 url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAeAQMAAAB3xI5qAAAABlBMVEUuWYTg4OCYb5BrAAAAAnRSTlMaGjvczpkAAAATSURBVHheY+gAAoZyIAATg4QLAC2tOnEwIzHHAAAAAElFTkSuQmCC") fixed;
   color: #555;
@@ -44,8 +56,8 @@ header {
   background-image: -moz-linear-gradient(top, #e8e8e8 0%, #b2b2b2 100%);      /* FF3.6+ */
   background-image: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#e8e8e8), color-stop(100%,#b2b2b2)); /* Chrome,Safari4+ */
   background-image: -webkit-linear-gradient(top, #e8e8e8 0%, #b2b2b2 100%);   /* Chrome10+,Safari5.1+ */
-  background-image: -o-linear-gradient(top, #e8e8e8 0%, #b2b2b2 100%);        /* Opera 11.10+ */
   background-image: -ms-linear-gradient(top, #e8e8e8 0%, #b2b2b2 100%);       /* IE10+ */
+  background-image: -o-linear-gradient(top, #e8e8e8 0%, #b2b2b2 100%);        /* Opera 11.10+ */
   background-image: linear-gradient(to bottom, #e8e8e8 0%, #b2b2b2 100%);     /* W3C */
   border-bottom: 1px solid #ff9933;
   -webkit-border-radius: 8px 8px 0 0;
@@ -92,8 +104,8 @@ header ul {
   background-image: -moz-linear-gradient(top, #ff9100 0%, #ff6a00 100%);      /* FF3.6+ */
   background-image: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#ff9100), color-stop(100%,#ff6a00)); /* Chrome,Safari4+ */
   background-image: -webkit-linear-gradient(top, #ff9100 0%, #ff6a00 100%);   /* Chrome10+,Safari5.1+ */
-  background-image: -o-linear-gradient(top, #ff9100 0%, #ff6a00 100%);        /* Opera 11.10+ */
   background-image: -ms-linear-gradient(top, #ff9100 0%, #ff6a00 100%);       /* IE10+ */
+  background-image: -o-linear-gradient(top, #ff9100 0%, #ff6a00 100%);        /* Opera 11.10+ */
   background-image: linear-gradient(to bottom, #ff9100 0%, #ff6a00 100%);     /* W3C */
   -webkit-border-radius: 5px;
   -moz-border-radius: 5px;
@@ -110,7 +122,7 @@ header ul {
   right: 20px;
   top: 20px;
   width: auto;
-  height: 38px;
+  height: 40px;
   z-index: 1;
 }
 
@@ -139,6 +151,16 @@ header ul li {
   height: 38px;
 }
 
+header ul li:hover {
+  background-color: #ff9c1a; /* Old browsers */
+  background-image: -moz-linear-gradient(top, #ff9c1a 0%, #e65f00 100%);      /* FF3.6+ */
+  background-image: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#ff9c1a), color-stop(100%,#e65f00)); /* Chrome,Safari4+ */
+  background-image: -webkit-linear-gradient(top, #ff9c1a 0%, #e65f00 100%);   /* Chrome10+,Safari5.1+ */
+  background-image: -ms-linear-gradient(top, #ff9c1a 0%, #e65f00 100%);       /* IE10+ */
+  background-image: -o-linear-gradient(top, #ff9c1a 0%, #e65f00 100%);        /* Opera 11.10+ */
+  background-image: linear-gradient(to bottom, #ff9c1a 0%, #e65f00 100%);     /* W3C */
+}
+
 header ul li + li {
   border-left: 1px solid #a9a9a9;
   width: 90px;
@@ -150,16 +172,15 @@ header ul li + li + li {
 }
 
 header ul a {
-  color: rgba(255, 255, 255, 0.8);
   color: white;
   display: block;
   font-size: 11px;
-  font-weight: normal;
-  height: 40px;
   line-height: 1;
   padding-top: 6px;
   text-align: center;
   text-shadow: rgba(0, 0, 0, 0.4) 0 -1px 0;
+  width: inherit;
+  height: 38px;
 }
 
 header ul a strong {
@@ -169,22 +190,12 @@ header ul a strong {
   -webkit-font-smoothing: antialiased;
 }
 
-header ul li:hover {
-  background-color: #ff9c1a; /* Old browsers */
-  background-image: -moz-linear-gradient(top, #ff9c1a 0%, #e65f00 100%);      /* FF3.6+ */
-  background-image: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#ff9c1a), color-stop(100%,#e65f00)); /* Chrome,Safari4+ */
-  background-image: -webkit-linear-gradient(top, #ff9c1a 0%, #e65f00 100%);   /* Chrome10+,Safari5.1+ */
-  background-image: -o-linear-gradient(top, #ff9c1a 0%, #e65f00 100%);        /* Opera 11.10+ */
-  background-image: -ms-linear-gradient(top, #ff9c1a 0%, #e65f00 100%);       /* IE10+ */
-  background-image: linear-gradient(to bottom, #ff9c1a 0%, #e65f00 100%);     /* W3C */
-}
-
 header a {
   color: #ff8000;
   text-decoration: none;
 }
 
-a.h1 {
+header h1 a {
   color: #ff6a00;
 }
 
