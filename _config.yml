@@ -1,10 +1,10 @@
 # custom variables
 title:              HexChat
 url:                http://hexchat.github.io
+dl_url:             http://dl.hexchat.net
 version:            2.9.6.1
 
 # permalinks
 permalink:          /news/:title.html
 
-# server
-destination:        ./_site/
+exclude:            ["README.md"]
