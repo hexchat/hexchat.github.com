@@ -24,10 +24,9 @@ Python 2.7.5 for scripts ( [x86](http://python.org/ftp/python/2.7.5/python-2.7.5
 Perl 5.16.3 for scripts ( [x86](http://strawberry-perl.googlecode.com/files/strawberry-perl-5.16.3.1-32bit.msi) / [x64](http://strawberry-perl.googlecode.com/files/strawberry-perl-5.16.3.1-64bit.msi) )
 
 ## Linux
-Quite a few distributions have official packages for HexChat. On those which don't, you may use contributed, unofficial packages:
+Nearly all distributions have official packages for HexChat. On those which don't, you may use contributed, unofficial packages:
 
-- [Ubuntu/Mint PPA](https://launchpad.net/~gwendal-lebihan-dev/+archive/hexchat-stable)
-- [Debian 7]({{ site.dl_url }}/hexchat/debian/)
+- [PPA for Ubuntu/Mint older than 14.04](https://launchpad.net/~gwendal-lebihan-dev/+archive/hexchat-stable)
 
 ## OS X
 The OS X build is experimental and may not be as supported as the Windows/Linux versions. It is built on 10.9 so
