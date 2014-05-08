@@ -8,3 +8,7 @@ version:            2.9.6.1
 permalink:          /news/:title.html
 
 exclude:            ["README.md"]
+
+markdown:           kramdown
+gems:
+    - jekyll-sitemap
