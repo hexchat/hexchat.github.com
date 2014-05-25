@@ -15,3 +15,8 @@ Customized version on Gnome 3.6:
 
 Gnome 3.10:
 ![HexChat Gnome 3.10 Screenshot](/img/screenshot-gnome-3.10.png)
+
+## OS X
+
+10.9:
+![HexChat OSX Mavericks Screenshot](/img/screenshot-osx-10.9.png)
