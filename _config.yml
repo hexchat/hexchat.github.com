@@ -2,7 +2,7 @@
 title:              HexChat
 url:                http://hexchat.github.io
 dl_url:             http://dl.hexchat.net
-version:            2.9.6.1
+version:            2.10.0
 
 # permalinks
 permalink:          /news/:title.html
