@@ -6,6 +6,8 @@ title: Downloads
 ## Windows Vista/7/8
 **HexChat {{ site.version }}** ( [x86]({{ site.dl_url }}/hexchat/HexChat%20{{ site.version }}%20x86.exe) / [x64]({{ site.dl_url }}/hexchat/HexChat%20{{ site.version }}%20x64.exe) )
 
+Visual C++ 2013 Redistributable ( [x86]({{ site.dl_url }}/misc/vcredist_2013_x86.exe) / [x64]({{ site.dl_url }}/misc/vcredist_2013_x64.exe) )
+
 Dictionaries for spell checking ( [r2]({{ site.dl_url }}/hexchat/HexChat%20Spelling%20Dictionaries%20r2.exe) )
 
 Python 2.7.6 for scripts ( [x86](https://www.python.org/ftp/python/2.7.6/python-2.7.6.msi) / [x64](https://www.python.org/ftp/python/2.7.6/python-2.7.6.amd64.msi) )
