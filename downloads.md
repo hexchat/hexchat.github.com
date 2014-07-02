@@ -10,8 +10,8 @@ Visual C++ 2013 Redistributable ( [x86]({{ site.dl_url }}/misc/vcredist_2013_x86
 
 Dictionaries for spell checking ( [r2]({{ site.dl_url }}/hexchat/HexChat%20Spelling%20Dictionaries%20r2.exe) )
 
-Python 2.7.7 for scripts ( [x86](https://www.python.org/ftp/python/2.7.7/python-2.7.7.msi) /
-[x64](https://www.python.org/ftp/python/2.7.7/python-2.7.7.amd64.msi) )
+Python 2.7.8 for scripts ( [x86](https://www.python.org/ftp/python/2.7.8/python-2.7.8.msi) /
+[x64](https://www.python.org/ftp/python/2.7.8/python-2.7.8.amd64.msi) )
 
 Python 3.4.1 for scripts ( [x86](https://www.python.org/ftp/python/3.4.1/python-3.4.1.msi) /
 [x64](https://www.python.org/ftp/python/3.4.1/python-3.4.1.amd64.msi) )
