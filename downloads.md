@@ -24,7 +24,7 @@ Nearly all distributions have official packages for HexChat. On those which don'
 - [PPA for Ubuntu/Mint older than 14.04](https://launchpad.net/~gwendal-lebihan-dev/+archive/hexchat-stable)
 - Debian-based: `sudo apt-get install hexchat`
 - Fedora-based: `sudo yum install hexchat`
-- Arch-based: `sudo pacman install hexchat`
+- Arch-based: `sudo pacman -S hexchat`
 - SUSE-based: `sudo zypper in hexchat`
 
 ## OS X
