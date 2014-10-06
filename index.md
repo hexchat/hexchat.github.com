@@ -13,12 +13,12 @@ HexChat was originally called XChat-WDK which in turn was a successor of freaksc
 
 #### Features
 
-- Easy to use and [customizable](http://hexchat.readthedocs.org/en/latest/appearance.html) interface
+- Easy to use and [customizable](https://hexchat.readthedocs.org/en/latest/appearance.html) interface
 - Cross-platform on Windows, OS X, and Unix-like OSes
-- Highly [scriptable](http://hexchat.readthedocs.org/en/latest/developers.html#scripting) with Python and Perl
+- Highly [scriptable](https://hexchat.readthedocs.org/en/latest/developers.html#scripting) with Python and Perl
 - Translated in [multiple languages](https://www.transifex.com/projects/p/hexchat/)
 - Fully [open source](https://github.com/HexChat/hexchat) and [actively developed](https://www.ohloh.net/p/hexchat)
 - Multi-network with auto-connect, join, and identify
-- Spellcheck, Proxies, SASL, DCC support and [more](http://hexchat.readthedocs.org/en/latest/)
+- Spellcheck, Proxies, SASL, DCC support and [more](https://hexchat.readthedocs.org/en/latest/)
 
 [Donate Bitcoin](https://coinbase.com/checkouts/434b08b871e3d63df11f6823181189c6)
