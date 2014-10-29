@@ -13,8 +13,8 @@ Dictionaries for spell checking ( [r2]({{ site.dl_url }}/hexchat/HexChat%20Spell
 Python 2.7.8 for scripts ( [x86](https://www.python.org/ftp/python/2.7.8/python-2.7.8.msi) /
 [x64](https://www.python.org/ftp/python/2.7.8/python-2.7.8.amd64.msi) )
 
-Python 3.4.1 for scripts ( [x86](https://www.python.org/ftp/python/3.4.1/python-3.4.1.msi) /
-[x64](https://www.python.org/ftp/python/3.4.1/python-3.4.1.amd64.msi) )
+Python 3.4.2 for scripts ( [x86](https://www.python.org/ftp/python/3.4.2/python-3.4.2.msi) /
+[x64](https://www.python.org/ftp/python/3.4.2/python-3.4.2.amd64.msi) )
 
 Perl 5.20.0 for scripts ( [x86]({{ site.dl_url }}/misc/perl/Perl%205.20.0%20x86.msi) / [x64]({{ site.dl_url }}/misc/perl/Perl%205.20.0%20x64.msi) )
 
