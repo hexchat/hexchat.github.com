@@ -26,7 +26,7 @@ Nearly all distributions have official packages for HexChat. On those which don'
 ## OS X
 Note that this is the first major release officially supporting OS X so some issues are known to exist.
 
-- [10.9+]({{ site.dl_url }}/hexchat/osx/HexChat-{{ site.version }}-2.app.zip)
+- [10.9+]({{ site.dl_url }}/hexchat/osx/HexChat-{{ site.version }}.app.zip)
 
 ## Source
 - [Development Version](https://github.com/hexchat/hexchat/archive/master.tar.gz)
