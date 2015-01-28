@@ -19,7 +19,11 @@ Python 3.4.2 for scripts ( [x86](https://www.python.org/ftp/python/3.4.2/python-
 Perl 5.20.0 for scripts ( [x86]({{ site.dl_url }}/misc/perl/Perl%205.20.0%20x86.msi) / [x64]({{ site.dl_url }}/misc/perl/Perl%205.20.0%20x64.msi) )
 
 ## Linux
-Nearly all distributions have official packages for HexChat. On those which don't, you may use contributed, unofficial packages:
+Nearly all distributions have official packages for HexChat. 
+
+- to install on a supported distro, run ````sudo apt-get install hexchat````
+
+On those which don't, you may use contributed, unofficial packages:
 
 - [PPA for Ubuntu/Mint older than 14.04](https://launchpad.net/~gwendal-lebihan-dev/+archive/hexchat-stable)
 
