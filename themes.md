@@ -3,7 +3,7 @@ layout: default
 title: Themes
 ---
 
-These are some unofficial custom themes for HexChat. For information on how to install these themes, refer to the [documentation](https://hexchat.readthedocs.org/en/latest/appearance.html#theme-manager).
+These are some unofficial custom themes for HexChat. For information on how to install these themes, refer to the [documentation](https://hexchat.readthedocs.org/en/latest/appearance.html#theme-files).
 
 <table class="theme-table">
   <tr>
