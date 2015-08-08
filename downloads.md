@@ -21,7 +21,7 @@ Perl 5.20.0 for scripts ( [x86]({{ site.dl_url }}/misc/perl/Perl%205.20.0%20x86.
 ## Linux
 Nearly all distributions have official packages for HexChat. On those which don't, you may use contributed, unofficial packages:
 
-- [PPA for Ubuntu/Mint older than 14.04](https://launchpad.net/~gwendal-lebihan-dev/+archive/hexchat-stable)
+- [PPA for Ubuntu/Mint](https://launchpad.net/~gwendal-lebihan-dev/+archive/hexchat-stable) (Required for versions older than 14.04 but kept up to date)
 
 ## OS X
 Note that this is the first major release officially supporting OS X so some issues are known to exist.
