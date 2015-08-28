@@ -3,7 +3,7 @@ layout: default
 title: Downloads
 ---
 
-## Windows 7/8
+## Windows 7/8/10
 **HexChat {{ site.version }}** ( [x86]({{ site.dl_url }}/hexchat/HexChat%20{{ site.version }}%20x86.exe) / [x64]({{ site.dl_url }}/hexchat/HexChat%20{{ site.version }}%20x64.exe) )
 
 Visual C++ 2013 Redistributable ( [x86]({{ site.dl_url }}/misc/vcredist_2013_x86.exe) / [x64]({{ site.dl_url }}/misc/vcredist_2013_x64.exe) )
