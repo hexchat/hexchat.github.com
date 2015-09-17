@@ -38,7 +38,6 @@ After this move to shareware, there were many accusations of copyright infringem
 There have been patches accepted from third party developers (as in, not from Zed), and so many argued that if no licensing agreement had accompanied the patch, then the patch should be assumed to be under the GPL. This would mean that zed would not control the license of the patch, and could therefore not dual license the code contained in the patch. Because of this, it was offered that any code that a developer did not want included with XChat anymore would be removed and replaced with a new-from-scratch version written by zed.
 
 Although some contend this was not enough to only remove if an author didn't complain (instead of removing all code unless the author explicitly approves), the controversy has been around since 2004. If any author would have had an issue, their code would have already been removed.
-And the GPL
 
 It is important to note that XChat still releases the source code under the GPL, so anyone is free to build XChat on any platform they so desire. There are those who do, and some release the builds they have created. These builds are completely legal and do not violate any copyright law (that is known). You can find out more about these alternate builds on the unofficial builds page.
 
