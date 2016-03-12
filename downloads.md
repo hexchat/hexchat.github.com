@@ -6,15 +6,15 @@ title: Downloads
 ## Windows 7/8/10
 **HexChat {{ site.version }}** ( [x86]({{ site.dl_url }}/hexchat/HexChat%20{{ site.version }}%20x86.exe) / [x64]({{ site.dl_url }}/hexchat/HexChat%20{{ site.version }}%20x64.exe) )
 
-Visual C++ 2013 Redistributable ( [x86]({{ site.dl_url }}/misc/vcredist_2013_x86.exe) / [x64]({{ site.dl_url }}/misc/vcredist_2013_x64.exe) )
+Visual C++ 2015 Redistributable ( [x86]({{ site.dl_url }}/misc/vcredist_2015_x86.exe) / [x64]({{ site.dl_url }}/misc/vcredist_2015_x64.exe) )
 
-Dictionaries for spell checking ( [r2]({{ site.dl_url }}/hexchat/HexChat%20Spelling%20Dictionaries%20r2.exe) )
+Dictionaries for spell checking (Windows 7 only) ( [r2]({{ site.dl_url }}/hexchat/HexChat%20Spelling%20Dictionaries%20r2.exe) )
 
 Python 2.7.10 for scripts ( [x86](https://www.python.org/ftp/python/2.7.10/python-2.7.10.msi) /
 [x64](https://www.python.org/ftp/python/2.7.10/python-2.7.10.amd64.msi) )
 
-Python 3.4.3 for scripts ( [x86](https://www.python.org/ftp/python/3.4.3/python-3.4.3.msi) /
-[x64](https://www.python.org/ftp/python/3.4.3/python-3.4.3.amd64.msi) )
+Python 3.5.1 for scripts ( [x86](https://www.python.org/ftp/python/3.5.1/python-3.5.1.msi) /
+[x64](https://www.python.org/ftp/python/3.5.1/python-3.5.1.amd64.msi) )
 
 Perl 5.20.0 for scripts ( [x86]({{ site.dl_url }}/misc/perl/Perl%205.20.0%20x86.msi) / [x64]({{ site.dl_url }}/misc/perl/Perl%205.20.0%20x64.msi) )
 
@@ -26,7 +26,7 @@ Nearly all distributions have official packages for HexChat. On those which don'
 ## OS X
 Note that this is the first major release officially supporting OS X so some issues are known to exist.
 
-- [10.9+]({{ site.dl_url }}/hexchat/osx/HexChat-{{ site.version }}.app.zip)
+- [10.9+]({{ site.dl_url }}/hexchat/osx/HexChat-{{ site.osx_version }}.app.zip)
 
 ## Source
 - [Development Version](https://github.com/hexchat/hexchat/archive/master.tar.gz)
