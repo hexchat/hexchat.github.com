@@ -8,7 +8,7 @@ title: Downloads
 
 Visual C++ 2015 Redistributable ( [x86]({{ site.dl_url }}/misc/vcredist_2015_x86.exe) / [x64]({{ site.dl_url }}/misc/vcredist_2015_x64.exe) )
 
-Dictionaries for spell checking (Windows 7 only) ( [r2]({{ site.dl_url }}/hexchat/HexChat%20Spelling%20Dictionaries%20r2.exe) )
+Dictionaries for spell checking (only needed on Windows 7) ( [r2]({{ site.dl_url }}/hexchat/HexChat%20Spelling%20Dictionaries%20r2.exe) )
 
 Python 2.7.10 for scripts ( [x86](https://www.python.org/ftp/python/2.7.10/python-2.7.10.msi) /
 [x64](https://www.python.org/ftp/python/2.7.10/python-2.7.10.amd64.msi) )
