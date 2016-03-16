@@ -14,7 +14,7 @@ Python 2.7.10 for scripts ( [x86](https://www.python.org/ftp/python/2.7.10/pytho
 [x64](https://www.python.org/ftp/python/2.7.10/python-2.7.10.amd64.msi) )
 
 Python 3.5.1 for scripts ( [x86](https://www.python.org/ftp/python/3.5.1/python-3.5.1.exe) /
-[x64](https://www.python.org/ftp/python/3.5.1/python-3.5.1.amd64.exe) )
+[x64](https://www.python.org/ftp/python/3.5.1/python-3.5.1-amd64.exe) )
 
 Perl 5.20.0 for scripts ( [x86]({{ site.dl_url }}/misc/perl/Perl%205.20.0%20x86.msi) / [x64]({{ site.dl_url }}/misc/perl/Perl%205.20.0%20x64.msi) )
 
