@@ -8,9 +8,7 @@ title: Downloads
 
 #### Extra components
 
-##### Note that the installer downloads these automatically and only portable-mode users must
-manually get these. Also ensure that any Python/Perl installations are installed for all
-users and added to PATH (this may require rebooting).
+##### Note that the installer downloads these automatically and only portable-mode users must manually get these. Also ensure that any Python/Perl installations are installed for all users and added to PATH (this may require rebooting).
 
 Visual C++ 2015 Redistributable ( [x86]({{ site.dl_url }}/misc/vcredist_2015_x86.exe) / [x64]({{ site.dl_url }}/misc/vcredist_2015_x64.exe) )
 
