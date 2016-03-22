@@ -6,9 +6,9 @@ title: Downloads
 ## Windows 7/8/10
 **HexChat {{ site.version }}** ( [x86]({{ site.dl_url }}/hexchat/HexChat%20{{ site.version }}%20x86.exe) / [x64]({{ site.dl_url }}/hexchat/HexChat%20{{ site.version }}%20x64.exe) )
 
-##### Extra components
+#### Extra components
 
-Note that the installer downloads these automatically and only portable-mode users must
+##### Note that the installer downloads these automatically and only portable-mode users must
 manually get these. Also ensure that any Python/Perl installations are installed for all
 users and added to PATH (this may require rebooting).
 
