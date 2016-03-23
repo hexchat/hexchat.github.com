@@ -22,6 +22,10 @@ Python 3.5.1 for scripts ( [x86](https://www.python.org/ftp/python/3.5.1/python-
 
 Perl 5.20.0 for scripts ( [x86]({{ site.dl_url }}/misc/perl/Perl%205.20.0%20x86.msi) / [x64]({{ site.dl_url }}/misc/perl/Perl%205.20.0%20x64.msi) )
 
+#### Development builds
+
+Latest development versions can be found at: https://dl.hexchat.net/hexchat/testing
+
 ## Linux
 Nearly all distributions have official packages for HexChat. On those which don't, you may use contributed, unofficial packages:
 
