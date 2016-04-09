@@ -11,5 +11,9 @@ permalink:          /news/:title.html
 exclude:            ["README.md"]
 
 markdown:           kramdown
+feed:
+    path: atom.xml
 gems:
     - jekyll-sitemap
+    - jekyll-mentions
+    - jekyll-feed
