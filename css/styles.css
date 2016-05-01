@@ -47,6 +47,10 @@ p {
   padding: 0;
 }
 
+code {
+  font-size: 14px;
+}
+
 strong {
   color: #222;
 }
