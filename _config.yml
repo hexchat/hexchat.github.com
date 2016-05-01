@@ -2,7 +2,7 @@
 title:              HexChat
 url:                https://hexchat.github.io
 dl_url:             https://dl.hexchat.net
-version:            2.12.0
+version:            2.12.1
 osx_version:        2.10.2
 
 # permalinks
@@ -11,6 +11,7 @@ permalink:          /news/:title.html
 exclude:            ["README.md"]
 
 markdown:           kramdown
+highlighter:        rouge
 feed:
     path: atom.xml
 gems:
