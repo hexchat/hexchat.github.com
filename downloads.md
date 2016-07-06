@@ -14,11 +14,11 @@ Visual C++ 2015 Redistributable ( [x86]({{ site.dl_url }}/misc/vcredist_2015_x86
 
 Dictionaries for spell checking (only needed on Windows 7) ( [r2]({{ site.dl_url }}/hexchat/HexChat%20Spelling%20Dictionaries%20r2.exe) )
 
-Python 2.7.10 for scripts ( [x86](https://www.python.org/ftp/python/2.7.10/python-2.7.10.msi) /
-[x64](https://www.python.org/ftp/python/2.7.10/python-2.7.10.amd64.msi) )
+Python 2.7.12 for scripts ( [x86](https://www.python.org/ftp/python/2.7.12/python-2.7.12.msi) /
+[x64](https://www.python.org/ftp/python/2.7.12/python-2.7.12.amd64.msi) )
 
-Python 3.5.1 for scripts ( [x86](https://www.python.org/ftp/python/3.5.1/python-3.5.1.exe) /
-[x64](https://www.python.org/ftp/python/3.5.1/python-3.5.1-amd64.exe) )
+Python 3.5.2 for scripts ( [x86](https://www.python.org/ftp/python/3.5.2/python-3.5.2.exe) /
+[x64](https://www.python.org/ftp/python/3.5.2/python-3.5.2-amd64.exe) )
 
 Perl 5.20.0 for scripts ( [x86]({{ site.dl_url }}/misc/perl/Perl%205.20.0%20x86.msi) / [x64]({{ site.dl_url }}/misc/perl/Perl%205.20.0%20x64.msi) )
 
