@@ -32,9 +32,8 @@ Nearly all distributions have official packages for HexChat. On those which don'
 - [PPA for Ubuntu/Mint](https://launchpad.net/~gwendal-lebihan-dev/+archive/hexchat-stable) (Required for versions older than 14.04 but kept up to date)
 
 ## OS X
-There will no longer be official OSX builds, you can obtain the latest release by building from source or from third party repositories.
 
-- [10.9+]({{ site.dl_url }}/hexchat/osx/HexChat-{{ site.osx_version }}.app.zip)
+You can find builds from third party distributors such as [Homebrew](http://brew.sh/) in the [homebrew-gui](https://github.com/Homebrew/homebrew-gui) repository.
 
 ## Source
 - [Development Version](https://github.com/hexchat/hexchat/archive/master.tar.gz)
