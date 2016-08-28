@@ -20,3 +20,5 @@ HexChat was originally called XChat-WDK which in turn was a successor of freaksc
 - Fully [open source](https://github.com/HexChat/hexchat) and [actively developed](https://www.ohloh.net/p/hexchat)
 - Multi-network with auto-connect, join, and identify
 - Spellcheck, Proxies, SASL, DCC support and [more](https://hexchat.readthedocs.org/en/latest/)
+
+[Donate with PayPal](http://goo.gl/RiYDqZ)
