@@ -29,7 +29,10 @@ Latest development versions can be found at: [dl.hexchat.net/hexchat/testing](ht
 ## Linux
 Nearly all distributions have official packages for HexChat. On those which don't, you may use contributed, unofficial packages:
 
-- [PPA for Ubuntu/Mint](https://launchpad.net/~gwendal-lebihan-dev/+archive/hexchat-stable) (Required for versions older than 14.04 but kept up to date)
+### Ubuntu (Mint)
+
+- [OverCoder's PPA](https://launchpad.net/~overcoder/+archive/ubuntu/hexchat) (Latest stable)
+- [Glebihan's PPA](https://launchpad.net/~gwendal-lebihan-dev/+archive/hexchat-stable) (Direct port of Debian's packages)
 
 ## OS X
 
