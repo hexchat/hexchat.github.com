@@ -27,12 +27,30 @@ Perl 5.20.0 for scripts ( [x86]({{ site.dl_url }}/misc/perl/Perl%205.20.0%20x86.
 Latest development versions can be found at: [dl.hexchat.net/hexchat/testing](https://dl.hexchat.net/hexchat/testing)
 
 ## Linux
-Nearly all distributions have official packages for HexChat. On those which don't, you may use contributed, unofficial packages:
+Normally your distribution already has a package though it may be outdated.
 
 ### Ubuntu (Mint)
+Note these are community maintained repositories.
 
 - [OverCoder's PPA](https://launchpad.net/~overcoder/+archive/ubuntu/hexchat) (Latest stable)
 - [Glebihan's PPA](https://launchpad.net/~gwendal-lebihan-dev/+archive/hexchat-stable) (Direct port of Debian's packages)
+
+### Bundles
+Note that these may not fully integrate into your system like traditional packages. They should be portable
+across multiple distributions though.
+
+#### Flatpak
+
+{% highlight sh %}
+flatpak --user remote-add tingping https://dl.tingping.se/flatpak/tingping.flatpakrepo
+flatpak --user install tingping io.github.Hexchat
+{% endhighlight %}
+
+#### Snap
+
+{% highlight sh %}
+sudo snap install hexchat
+{% endhighlight %}
 
 ## OS X
 
