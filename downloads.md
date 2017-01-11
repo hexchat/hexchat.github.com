@@ -56,6 +56,8 @@ sudo snap install hexchat
 
 You can find builds from third party distributors such as [Homebrew](http://brew.sh/) in the [homebrew-gui](https://github.com/Homebrew/homebrew-gui) repository.
 
+Install with [Homebrew Cask](https://caskroom.github.io/) if you prefer to launch Hexchat from Spotlight or the applications menu.
+
 ## Source
 - [Development Version](https://github.com/hexchat/hexchat/archive/master.tar.gz)
 - [{{ site.version }}]({{ site.dl_url }}/hexchat/hexchat-{{ site.version }}.tar.xz)
