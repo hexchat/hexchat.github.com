@@ -42,8 +42,7 @@ across multiple distributions though.
 #### Flatpak
 
 {% highlight sh %}
-flatpak --user remote-add tingping https://dl.tingping.se/flatpak/tingping.flatpakrepo
-flatpak --user install tingping io.github.Hexchat
+flatpak install --from https://dl.tingping.se/flatpak/hexchat.flatpakrepo
 {% endhighlight %}
 
 #### Snap
