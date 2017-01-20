@@ -42,7 +42,7 @@ across multiple distributions though.
 #### Flatpak
 
 {% highlight sh %}
-flatpak install --from https://dl.tingping.se/flatpak/hexchat.flatpakrepo
+flatpak install --from https://dl.tingping.se/flatpak/hexchat.flatpakref
 {% endhighlight %}
 
 #### Snap
