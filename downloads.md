@@ -53,7 +53,7 @@ sudo snap install hexchat
 
 ## OS X
 
-You can find builds from third party distributors such as [Homebrew](http://brew.sh/) in the [homebrew-gui](https://github.com/Homebrew/homebrew-gui) repository.
+There are no longer maintained OSX builds.
 
 ## Source
 - [Development Version](https://github.com/hexchat/hexchat/archive/master.tar.gz)
