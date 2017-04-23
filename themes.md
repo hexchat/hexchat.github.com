@@ -36,6 +36,9 @@ These are some unofficial custom themes for HexChat. For information on how to i
   </tr>
   <tr>
     <td>
+      Darktooth
+      <a href="{{ site.dl_url }}/themes/Darktooth.hct" rel="nofollow"><img src="/img/themes/Darktooth.png" alt="Darktooth" width="208" height="223"></a>
+    <td>
       Debian
       <a href="{{ site.dl_url }}/themes/Debian.hct" rel="nofollow"><img src="/img/themes/Debian.png" alt="Debian" width="208" height="223"></a>
     </td>
@@ -43,12 +46,12 @@ These are some unofficial custom themes for HexChat. For information on how to i
       Default
       <a href="{{ site.dl_url }}/themes/Default.hct" rel="nofollow"><img src="/img/themes/Default.png" alt="Default" width="208" height="223"></a>
     </td>
+  </tr>
+  <tr>
     <td>
       Fedora
       <a href="{{ site.dl_url }}/themes/Fedora.hct" rel="nofollow"><img src="/img/themes/Fedora.png" alt="Fedora" width="208" height="223"></a>
     </td>
-  </tr>
-  <tr>
     <td>
       Fire
       <a href="{{ site.dl_url }}/themes/Fire.hct" rel="nofollow"><img src="/img/themes/Fire.png" alt="Fire" width="208" height="223"></a>
@@ -57,12 +60,12 @@ These are some unofficial custom themes for HexChat. For information on how to i
       Mars
       <a href="{{ site.dl_url }}/themes/Mars.hct" rel="nofollow"><img src="/img/themes/Mars.png" alt="Mars" width="208" height="223"></a>
     </td>
+  </tr>
+  <tr>
     <td>
       MatriY
       <a href="{{ site.dl_url }}/themes/MatriY.hct" rel="nofollow"><img src="/img/themes/MatriY.png" alt="MatriY" width="208" height="223"></a>
     </td>
-  </tr>
-  <tr>
     <td>
       mIRC
       <a href="{{ site.dl_url }}/themes/mIRC.hct" rel="nofollow"><img src="/img/themes/mIRC.png" alt="mIRC" width="208" height="223"></a>
@@ -71,12 +74,12 @@ These are some unofficial custom themes for HexChat. For information on how to i
       Monokai
       <a href="{{ site.dl_url }}/themes/Monokai.hct" rel="nofollow"><img src="/img/themes/Monokai.png" alt="Monokai" width="208" height="223"></a>
     </td>
+  </tr>
+  <tr>
     <td>
       Paco
       <a href="{{ site.dl_url }}/themes/Paco.hct" rel="nofollow"><img src="/img/themes/Paco.png" alt="Paco" width="208" height="223"></a>
     </td>
-  </tr>
-  <tr>
     <td>
       Pastel
       <a href="{{ site.dl_url }}/themes/Pastel.hct" rel="nofollow"><img src="/img/themes/Pastel.png" alt="Pastel" width="208" height="223"></a>
@@ -85,12 +88,12 @@ These are some unofficial custom themes for HexChat. For information on how to i
       Simply Glyphed
       <a href="{{ site.dl_url }}/themes/Simply%20Glyphed.hct" rel="nofollow"><img src="/img/themes/Simply_Glyphed.png" alt="Simply Glyphed" width="208" height="223"></a>
     </td>
+  </tr>
+  <tr>
     <td>
       Simply Glyphed Tango Dark
       <a href="{{ site.dl_url }}/themes/Simply%20Glyphed%20Tango%20Dark.hct" rel="nofollow"><img src="/img/themes/Simply_Glyphed_Tango_Dark.png" alt="Simply Glyphed Tango Dark" width="208" height="223"></a>
     </td>
-  </tr>
-  <tr>
     <td>
       Solarized Dark
       <a href="{{ site.dl_url }}/themes/Solarized%20Dark.hct" rel="nofollow"><img src="/img/themes/Solarized_Dark.png" alt="Solarized Dark" width="208" height="223"></a>
@@ -99,12 +102,12 @@ These are some unofficial custom themes for HexChat. For information on how to i
       Solarized Light
       <a href="{{ site.dl_url }}/themes/Solarized%20Light.hct" rel="nofollow"><img src="/img/themes/Solarized_Light.png" alt="Solarized Light" width="208" height="223"></a>
     </td>
+  </tr>
+  <tr>
     <td>
       Smog
       <a href="{{ site.dl_url }}/themes/Smog.hct" rel="nofollow"><img src="/img/themes/Smog.png" alt="Smog" width="208" height="223"></a>
     </td>
-  </tr>
-  <tr>
     <td>
       Ubuntu Dark
       <a href="{{ site.dl_url }}/themes/Ubuntu%20Dark.hct" rel="nofollow"><img src="/img/themes/Ubuntu_Dark.png" alt="Ubuntu Dark" width="208" height="223"></a>
@@ -113,9 +116,13 @@ These are some unofficial custom themes for HexChat. For information on how to i
       Ubuntu Light
       <a href="{{ site.dl_url }}/themes/Ubuntu%20Light.hct" rel="nofollow"><img src="/img/themes/Ubuntu_Light.png" alt="Ubuntu Light" width="208" height="223"></a>
     </td>
+  </tr>
+  <tr>
+    <td></td>
     <td>
       Zenburn
       <a href="{{ site.dl_url }}/themes/Zenburn.hct" rel="nofollow"><img src="/img/themes/Zenburn.png" alt="Zenburn" width="208" height="223"></a>
     </td>
+    <td></td>
   </tr>
 </table>
