@@ -55,6 +55,8 @@ sudo snap install hexchat
 
 There are no longer maintained OSX builds.
 
+Install with [Homebrew Cask](https://caskroom.github.io/) if you prefer to launch Hexchat from Spotlight or the applications menu.
+
 ## Source
 - [Development Version](https://github.com/hexchat/hexchat/archive/master.tar.gz)
 - [{{ site.version }}]({{ site.dl_url }}/hexchat/hexchat-{{ site.version }}.tar.xz)
