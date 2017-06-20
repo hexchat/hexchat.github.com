@@ -42,6 +42,11 @@ across multiple distributions though.
 #### Flatpak
 
 {% highlight sh %}
+# Stable releases:
+flatpak remote-add --if-not-exists flathub https://flathub.org/repo/flathub.flatpakrepo
+flatpak install flathub io.github.Hexchat
+
+# Development releases:
 flatpak install --from https://dl.tingping.se/flatpak/hexchat.flatpakref
 {% endhighlight %}
 
