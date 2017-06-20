@@ -43,4 +43,4 @@ It is important to note that XChat still releases the source code under the GPL,
 
 XChat itself now is dual licensed. Contributions to XChat are accepted both as GPL and as assigned to zed, so that the code may be included with the official win32 build. Anyone may modify and distribute XChat in anyway they desire as long as it follows the GPL.
 
-For more info, refer to the forum thread, [About Windows release licensing](http://forum.xchat.org/viewtopic.php?t=533).
+For more info, refer to the forum thread, [About Windows release licensing](https://web.archive.org/web/20130814135648/http://forum.xchat.org/viewtopic.php?t=533).
