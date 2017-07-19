@@ -26,6 +26,10 @@ Perl 5.20.0 for scripts ( [x86]({{ site.dl_url }}/misc/perl/Perl%205.20.0%20x86.
 
 Latest development versions can be found at: [dl.hexchat.net/hexchat/testing](https://dl.hexchat.net/hexchat/testing)
 
+## Windows 10 S
+
+Windows 10 users can get the latest version on the [Windows Store](https://www.microsoft.com/en-us/store/p/hexchat/9nrrbgttm4j2).
+
 ## Linux
 Normally your distribution already has a package though it may be outdated.
 
