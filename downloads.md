@@ -28,7 +28,7 @@ Latest development versions can be found at: [dl.hexchat.net/hexchat/testing](ht
 
 ## Windows 10 S
 
-Windows 10 users can get the latest version on the [Windows Store](https://www.microsoft.com/en-us/store/p/hexchat/9nrrbgttm4j2).
+Windows 10 users can get the latest version on the [Windows Store](ms-windows-store://pdp/?productid=9nrrbgttm4j2).
 
 ## Linux
 Normally your distribution already has a package though it may be outdated.
