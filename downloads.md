@@ -3,8 +3,11 @@ layout: default
 title: Downloads
 ---
 
+# Hexchat Downloads
+
 ## Windows 7/8/10
-**HexChat {{ site.version }}** ( [x86]({{ site.dl_url }}/hexchat/HexChat%20{{ site.win_version }}%20x86.exe) / [x64]({{ site.dl_url }}/hexchat/HexChat%20{{ site.win_version }}%20x64.exe) )
+
+HexChat {{ site.version }} ( [x86]({{ site.dl_url }}/hexchat/HexChat%20{{ site.win_version }}%20x86.exe) / [x64]({{ site.dl_url }}/hexchat/HexChat%20{{ site.win_version }}%20x64.exe) )
 
 #### Extra components
 
