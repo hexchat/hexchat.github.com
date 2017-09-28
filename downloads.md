@@ -3,30 +3,20 @@ layout: default
 title: Downloads
 ---
 
-## Windows 7/8/10
-**HexChat {{ site.version }}** ( [x86]({{ site.dl_url }}/hexchat/HexChat%20{{ site.win_version }}%20x86.exe) / [x64]({{ site.dl_url }}/hexchat/HexChat%20{{ site.win_version }}%20x64.exe) )
+## Windows
 
-#### Extra components
+### Windows 7/8/10
 
-##### Note that the installer downloads these automatically and only portable-mode users must manually get these. Also ensure that any Python/Perl installations are installed for all users and added to PATH (this may require rebooting).
+HexChat {{ site.version }} installers: ( [x86]({{ site.dl_url }}/hexchat/HexChat%20{{ site.win_version }}%20x86.exe) / [x64]({{ site.dl_url }}/hexchat/HexChat%20{{ site.win_version }}%20x64.exe) )
 
-Visual C++ 2015 Redistributable ( [x86]({{ site.dl_url }}/misc/vcredist_2015_x86.exe) / [x64]({{ site.dl_url }}/misc/vcredist_2015_x64.exe) )
-
-Dictionaries for spell checking (only needed on Windows 7) ( [r2]({{ site.dl_url }}/hexchat/HexChat%20Spelling%20Dictionaries%20r2.exe) )
-
-Python 2.7.12 for scripts ( [x86](https://www.python.org/ftp/python/2.7.12/python-2.7.12.msi) /
-[x64](https://www.python.org/ftp/python/2.7.12/python-2.7.12.amd64.msi) )
-
-Python 3.5.2 for scripts ( [x86](https://www.python.org/ftp/python/3.5.2/python-3.5.2.exe) /
-[x64](https://www.python.org/ftp/python/3.5.2/python-3.5.2-amd64.exe) )
-
-Perl 5.20.0 for scripts ( [x86]({{ site.dl_url }}/misc/perl/Perl%205.20.0%20x86.msi) / [x64]({{ site.dl_url }}/misc/perl/Perl%205.20.0%20x64.msi) )
+Note that the installer automatically downloads other dependencies and may require
+rebooting for scripting interfaces to work.
 
 #### Development builds
 
 Latest development versions can be found at: [dl.hexchat.net/hexchat/testing](https://dl.hexchat.net/hexchat/testing)
 
-## Windows 10 S
+### Windows 10 S
 
 Windows 10 users can get the latest version on the [Windows Store](ms-windows-store://pdp/?productid=9nrrbgttm4j2).
 
