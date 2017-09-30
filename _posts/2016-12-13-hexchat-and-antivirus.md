@@ -34,15 +34,15 @@ improved or might be an issue feel free to contact us on IRC.
 1. Download the HexChat installer
 2. Run it and you should see this including the Publisher line:
 
-   ![](http://i.imgur.com/CIQ7PnC.png)
+   ![](https://i.imgur.com/CIQ7PnC.png)
 
 3. Click on the publisher name to see more information:
 
-   ![](http://i.imgur.com/DLUU2ya.png)
+   ![](https://i.imgur.com/DLUU2ya.png)
 
 4. And lastly you can click *View Certificate* to see exact details:
 
-   ![](http://i.imgur.com/FI325dx.png)
+   ![](https://i.imgur.com/FI325dx.png)
 
 5. The exact public key to compare against:
 
