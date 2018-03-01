@@ -24,10 +24,7 @@ Windows 10 users can get the latest version on the [Windows Store](ms-windows-st
 Normally your distribution already has a package though it may be outdated.
 
 ### Ubuntu (Mint)
-Note these are community maintained repositories.
-
-- [OverCoder's PPA](https://launchpad.net/~overcoder/+archive/ubuntu/hexchat) (Latest stable)
-- [Glebihan's PPA](https://launchpad.net/~gwendal-lebihan-dev/+archive/hexchat-stable) (Direct port of Debian's packages)
+[Community maintained PPA](https://launchpad.net/~overcoder/+archive/ubuntu/hexchat) (Latest stable)
 
 ### Bundles
 Note that these may not fully integrate into your system like traditional packages. They should be portable
