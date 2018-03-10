@@ -23,14 +23,14 @@ Windows 10 users can get the latest version on the [Windows Store](ms-windows-st
 ## Linux
 Normally your distribution already has a package though it may be outdated.
 
-### Ubuntu (Mint)
-[Community maintained PPA](https://launchpad.net/~overcoder/+archive/ubuntu/hexchat) (Latest stable)
-
 ### Bundles
 Note that these may not fully integrate into your system like traditional packages. They should be portable
 across multiple distributions though.
 
 #### Flatpak
+
+This is the officially supported and recommended method to installing on Linux and will always be
+up to date. You can find instructions to install Flatpak here: https://flatpak.org/getting.html
 
 {% highlight sh %}
 # Stable releases:
