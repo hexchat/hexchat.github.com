@@ -30,7 +30,7 @@ across multiple distributions though.
 #### Flatpak
 
 This is the officially supported and recommended method to installing on Linux and will always be
-up to date. You can find instructions to install Flatpak here: https://flatpak.org/getting.html
+up to date. You can find instructions to install Flatpak here: [flatpak.org/getting.html](https://flatpak.org/getting.html)
 
 {% highlight sh %}
 # Stable releases:
