@@ -30,5 +30,5 @@ title: Downloads
   </div>
 </div>
 
-Note that the Windows installers automatically downloads other dependencies and may require
+Note that the Windows installers automatically download other dependencies and may require
 rebooting for scripting interfaces to work.
