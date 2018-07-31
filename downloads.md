@@ -18,7 +18,7 @@ title: Downloads
   </div>
   <div class="card">
     <p>Flatpak</p>
-    <a href="https://beta.flathub.org/apps/details/io.github.Hexchat"><img src="/img/flathub.png" width="128" alt="Flathub logo"/></a>
+    <a href="https://flathub.org/apps/details/io.github.Hexchat"><img src="/img/flathub.png" width="128" alt="Flathub logo"/></a>
   </div>
   <div class="card">
     <p>Snap</p>
