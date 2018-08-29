@@ -36,8 +36,7 @@ rebooting for scripting interfaces to work.
 Hashes:
 
 ```
-b3f41f29bc1e01f5c3f566dc38f7278974a9ea0e1398142ee65b29e63c6203a3  ./HexChat 2.14.1 x64.exe
-a8c5804f08eb30d75c8c8ad36ffbb3d510036e1d21d1b1dc5c8a990f0e687068  ./HexChat 2.14.1 x86.exe
-b032e4bcebe2229f87047439979a1246ddcbf599e7e538baa3f2abfac9a003a2  ./hexchat-2.14.1.tar.xz
+b3f41f29bc1e01f5c3f566dc38f7278974a9ea0e1398142ee65b29e63c6203a3  HexChat 2.14.1 x64.exe
+a8c5804f08eb30d75c8c8ad36ffbb3d510036e1d21d1b1dc5c8a990f0e687068  HexChat 2.14.1 x86.exe
 ```
 
