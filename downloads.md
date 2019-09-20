@@ -20,10 +20,10 @@ title: Downloads
     <p>Flatpak</p>
     <a href="https://flathub.org/apps/details/io.github.Hexchat"><img src="/img/flathub.png" width="128" alt="Flathub logo"/></a>
   </div>
-  <div class="card">
+  <!-- div class="card">
     <p>Snap</p>
     <a href="https://snapcraft.io/hexchat"><img src="/img/snapcraft.png" width="128" alt="Snapcraft logo"/></a>
-  </div>
+  </div -->
   <div class="card">
     <p>Source Archive</p>
     <a href="https://dl.hexchat.net/hexchat/hexchat-{{ site.version }}.tar.xz"><img src="/img/box.png" width="128" alt="archive"/></a>

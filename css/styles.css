@@ -361,7 +361,7 @@ footer a {
 .flex-container {
   display: flex;
   flex-direction: row;
-  justify-content: space-between;
+  justify-content: space-around;
   flex-wrap: wrap;
   margin: auto;
   padding: 20px;
