@@ -17,6 +17,6 @@ HexChat was originally called XChat-WDK which in turn was a successor of freaksc
 - Cross-platform on Windows and Unix-like OSes
 - Highly [scriptable](https://hexchat.readthedocs.org/en/latest/developers.html#scripting) with Lua, Python, and Perl
 - Translated in [multiple languages](https://www.transifex.com/projects/p/hexchat/)
-- Fully [open source](https://github.com/HexChat/hexchat) and [actively developed](https://www.ohloh.net/p/hexchat)
+- Fully [open source](https://github.com/HexChat/hexchat) and [actively developed](https://www.openhub.net/p/hexchat)
 - Multi-network with auto-connect, join, and identify
 - Spellcheck, Proxies, SASL, DCC support and [more](https://hexchat.readthedocs.org/en/latest/)
