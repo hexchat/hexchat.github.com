@@ -1,6 +1,6 @@
 ---
 layout: post
-title: #hexchat is now on Libera.Chat
+title: \#hexchat is now on Libera.Chat
 ---
 
 For those not in the know freenode has had new ownership forcefuly take over which lead to many of the staff making a new network, [https://libera.chat](Libera.Chat).
