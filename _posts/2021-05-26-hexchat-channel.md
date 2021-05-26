@@ -3,7 +3,7 @@ layout: post
 title: '#hexchat is now on Libera.Chat'
 ---
 
-For those not in the know freenode has had new ownership forcefuly take over which lead to many of the staff making a new network, [https://libera.chat](Libera.Chat).
+For those not in the know freenode has had new ownership forcefuly take over which lead to many of the staff making a new network, [Libera.Chat](https://libera.chat).
 
 Soon after the split #hexchat was registered there with no immediate
 plans of closing #hexchat on freenode, rather I hoped to set up a relay bot eventually. It actually wasn't reasonable for us to close it because its the default recommended network on existing HexChat installations. However I did set the topic to say the channel is on Libera.Chat.
