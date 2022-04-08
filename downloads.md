@@ -5,7 +5,7 @@ title: Downloads
 
 <div class="flex-container">
   <div class="card">
-    <p>Windows 10 App</p>
+    <p>Windows 10/11 App</p>
     <a href="https://www.microsoft.com/store/apps/9NRRBGTTM4J2"><img src="/img/microsoft.png" width="128" alt="Microsoft logo"/></a>
   </div>
   <div class="card">
