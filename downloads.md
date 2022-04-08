@@ -5,15 +5,15 @@ title: Downloads
 
 <div class="flex-container">
   <div class="card">
-    <p>Windows 10/11 App</p>
+    <p>Windows (Microsoft Store)</p>
     <a href="https://www.microsoft.com/store/apps/9NRRBGTTM4J2"><img src="/img/microsoft.png" width="128" alt="Microsoft logo"/></a>
   </div>
   <div class="card">
-    <p>Windows 7+ 64bit Installer</p>
+    <p>Windows 64bit Installer</p>
     <a href="https://dl.hexchat.net/hexchat/HexChat%20{{ site.win_version }}%20x64.exe"><img src="/img/exe.png" width="128" alt="Installer icon" /></a>
   </div>
   <div class="card">
-    <p>Windows 7+ 32bit Installer</p>
+    <p>Windows 32bit Installer</p>
     <a href="https://dl.hexchat.net/hexchat/HexChat%20{{ site.win_version }}%20x86.exe"><img src="/img/exe.png" width="128" alt="Installer icon" /></a>
   </div>
   <div class="card">
