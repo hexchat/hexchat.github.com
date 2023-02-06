@@ -10,6 +10,8 @@ osx_version:        2.10.2
 permalink:          /news/:title.html
 
 exclude:            ["README.md"]
+include:
+   - ".well-known"
 
 markdown:           kramdown
 highlighter:        rouge
