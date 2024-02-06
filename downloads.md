@@ -10,11 +10,11 @@ title: Downloads
   </div>
   <div class="card">
     <p>Windows 64bit Installer</p>
-    <a href="https://dl.hexchat.net/hexchat/HexChat%20{{ site.win_version }}%20x64.exe"><img src="/img/exe.png" width="128" alt="Installer icon" /></a>
+    <a href="https://github.com/hexchat/hexchat/releases/download/v{{ site.win_version }}/HexChat.{{ site.win_version }}.x64.exe"><img src="/img/exe.png" width="128" alt="Installer icon" /></a>
   </div>
   <div class="card">
     <p>Windows 32bit Installer</p>
-    <a href="https://dl.hexchat.net/hexchat/HexChat%20{{ site.win_version }}%20x86.exe"><img src="/img/exe.png" width="128" alt="Installer icon" /></a>
+    <a href="https://github.com/hexchat/hexchat/releases/download/v{{ site.win_version }}/HexChat.{{ site.win_version }}.x86.exe"><img src="/img/exe.png" width="128" alt="Installer icon" /></a>
   </div>
   <div class="card">
     <p>Flatpak</p>
@@ -26,7 +26,7 @@ title: Downloads
   </div -->
   <div class="card">
     <p>Source Archive</p>
-    <a href="https://dl.hexchat.net/hexchat/hexchat-{{ site.version }}.tar.xz"><img src="/img/box.png" width="128" alt="archive"/></a>
+    <a href="https://github.com/hexchat/hexchat/releases/download/v{{ site.verison }}/hexchat-{{ site.verison }}.tar.xz"><img src="/img/box.png" width="128" alt="archive"/></a>
   </div>
 </div>
 
