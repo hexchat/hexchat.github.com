@@ -26,7 +26,7 @@ title: Downloads
   </div -->
   <div class="card">
     <p>Source Archive</p>
-    <a href="https://github.com/hexchat/hexchat/releases/download/v{{ site.verison }}/hexchat-{{ site.verison }}.tar.xz"><img src="/img/box.png" width="128" alt="archive"/></a>
+    <a href="https://github.com/hexchat/hexchat/releases/download/v{{ site.version }}/hexchat-{{ site.version }}.tar.xz"><img src="/img/box.png" width="128" alt="archive"/></a>
   </div>
 </div>
 
