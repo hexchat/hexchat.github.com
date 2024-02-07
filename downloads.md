@@ -33,11 +33,3 @@ title: Downloads
 Note that the Windows installers automatically download other dependencies and may require
 rebooting for scripting interfaces to work.
 
-Hashes:
-
-```
-4b47930951ebc46e9cb8e8201856b8bddcd7499f5510fe1059f67d65cc80bf07  HexChat 2.16.1 x64.exe
-ab6db5c0cdd0a1ddd80dd7124430a6b56d75905859e4bab68c973837171c6161  HexChat 2.16.1 x86.exe
-a7e497da71df419daf9855582d51c723a2611de25d5e97b5efc33fe78da5c4c7  hexchat-2.16.1.tar.xz
-```
-
