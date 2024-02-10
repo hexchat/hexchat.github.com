@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/">
+	<channel>
+		<title>HexChat Releases</title>
+		<link>https://dl.hexchat.net/appcast.xml</link>
+		<language>en</language>
+		<!-- item>
+			<title>2.10.2</title>
+			<sparkle:releaseNotesLink>
+				https://raw.githubusercontent.com/hexchat/documentation/master/changelog.rst
+			</sparkle:releaseNotesLink>
+			<pubDate>25 Nov 2014</pubDate>
+			<enclosure url="https://dl.hexchat.net/hexchat/osx/HexChat-2.10.2.app.zip"
+					   type="application/zip"
+					   sparkle:version="2.12.2"
+					   sparkle:minimumSystemVersion="10.9"/>
+		</item -->
+		<item>
+			<title>2.16.1</title>
+			<sparkle:releaseNotesLink>
+				https://raw.githubusercontent.com/hexchat/documentation/master/changelog.rst
+			</sparkle:releaseNotesLink>
+			<pubDate>12 Feb 2022</pubDate>
+			<enclosure url="https://dl.hexchat.net/hexchat/HexChat%202.16.1%20x86.exe"
+					   type="application/exe"
+					   sparkle:version="2.16.1"
+					   sparkle:os="windows-x86"
+					   sparkle:minimumSystemVersion="6.1"/>
+		</item>
+		<item>
+			<title>2.16.1</title>
+			<sparkle:releaseNotesLink>
+				https://raw.githubusercontent.com/hexchat/documentation/master/changelog.rst
+			</sparkle:releaseNotesLink>
+			<pubDate>12 Feb 2021</pubDate>
+			<enclosure url="https://dl.hexchat.net/hexchat/HexChat%202.16.1%20x64.exe"
+					   type="application/exe"
+					   sparkle:version="2.16.1"
+					   sparkle:os="windows-x64"
+					   sparkle:minimumSystemVersion="6.1"/>
+		</item>
+	</channel>
+</rss>
