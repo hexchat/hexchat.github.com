@@ -5,10 +5,6 @@ title: Downloads
 
 <div class="flex-container">
   <div class="card">
-    <p>Windows (Microsoft Store)</p>
-    <a href="https://www.microsoft.com/store/apps/9NRRBGTTM4J2"><img src="/img/microsoft.png" width="128" alt="Microsoft logo"/></a>
-  </div>
-  <div class="card">
     <p>Windows 64bit Installer</p>
     <a href="https://github.com/hexchat/hexchat/releases/download/v{{ site.win_version }}/HexChat.{{ site.win_version }}.x64.exe"><img src="/img/exe.png" width="128" alt="Installer icon" /></a>
   </div>
